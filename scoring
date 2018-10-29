@@ -44,3 +44,8 @@ list.loc[94,'score'] = 0
 list.loc[100,'score'] = 1
 list.loc[106,'score'] = 5
 list.loc[118,'score'] = 4
+
+# Myriam
+list.loc[173,'score'] = 2
+
+
