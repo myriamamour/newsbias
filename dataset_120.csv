@@ -1,5 +1,5 @@
-,authors,body,dataType,date,dateTime,eventUri,isDuplicate,lang,sim,time,title,uri,url,uriSource,dataTypeSource,titleSource,Counts,scorer,score
-0,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","Ryanair has sparked outrage after apparently failing to remove a passenger from a plane after he launched a racist tirade against the woman in the seat next to him.
+,Unnamed: 0,authors,body,dataType,date,dateTime,eventUri,isDuplicate,lang,sim,time,title,uri,url,uriSource,dataTypeSource,titleSource,Counts,scorer,score
+0,0,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","Ryanair has sparked outrage after apparently failing to remove a passenger from a plane after he launched a racist tirade against the woman in the seat next to him.
 
 The man was filmed by a fellow passenger calling the elderly woman an ""ugly black bastard"", and shouting ""don't talk to me in a foreign language you stupid ugly cow"".
 
@@ -53,8 +53,8 @@ Fellow MSP politician Margaret Ferrier said: ""Just watched the shocking footage
 
 The budget airline tweeted on Sunday that it had seen the footage and reported the incident to Essex police.
 
-It added: ""As this is now a police matter, we cannot comment further.""",news,2018-10-21,2018-10-21T11:30:00Z,eng-4364609,0.0,eng,0.7764706015586853,11:30:00,Ryanair criticised for failing to remove racist passenger from flight,974809442,https://www.dailymail.co.uk/wires/pa/article-6299829/Ryanair-criticised-failing-remove-racist-passenger-flight.html,dailymail.co.uk,news,Daily Mail Online,13,David,0
-1,"[{'uri': 'reuters@dailymail.co.uk', 'name': 'Reuters', 'type': 'author', 'isAgency': True}]","By Conor Humphries
+It added: ""As this is now a police matter, we cannot comment further.""",news,2018-10-21,2018-10-21T11:30:00Z,eng-4364609,0.0,eng,0.7764706015586853,11:30:00,Ryanair criticised for failing to remove racist passenger from flight,974809442,https://www.dailymail.co.uk/wires/pa/article-6299829/Ryanair-criticised-failing-remove-racist-passenger-flight.html,dailymail.co.uk,news,Daily Mail Online,13,David,3
+1,1,"[{'uri': 'reuters@dailymail.co.uk', 'name': 'Reuters', 'type': 'author', 'isAgency': True}]","By Conor Humphries
 
 DUBLIN, Oct 22 (Reuters) - Ryanair said on Monday it hopes to conclude its remaining labour issues by Christmas, signalling a possible end to damaging flight disruptions which have dragged on its shares.
 
@@ -85,7 +85,7 @@ Ryanair, which makes most of its profit in the summer, reported a profit of 1.2 
 That would be a 17-24 percent fall from the record 1.45 billion euro post-tax profit in its most recent financial year.
 
 A poll of more than 10 analysts by Ryanair before the results found an average forecast of 1.127 billion euros for the full year and 1.175 billion for the six months to Sept. 30. ($1 = 0.8685 euros) (Reporting by Conor Humphries; Editing by Amrutha Gayathri and Alexander Smith)",news,2018-10-22,2018-10-22T08:01:00Z,eng-4364609,0.0,eng,0.3764705955982208,08:01:00,Ryanair forecasts end to union troubles by Christmas,975354875,https://www.dailymail.co.uk/wires/reuters/article-6302367/Ryanair-forecasts-end-union-troubles-Christmas.html,dailymail.co.uk,news,Daily Mail Online,13,Asif,0
-2,[],"Ryanair made almost £1.8billion last year through the sale of add-ons
+2,2,[],"Ryanair made almost £1.8billion last year through the sale of add-ons
 
 No-frills airline Ryanair is changing its baggage rules from next month, demanding customers pay £6 for priority boarding if they want to take a 10kg bag on board on top of hand luggage that fits under a seat.
 
@@ -142,7 +142,7 @@ Hannah Maundrell, of consumer website Money, says: 'Budget airlines are great if
 Ryanair says: 'Over the past 18 months we have seen about half our customers reserve a seat. All optional extras are visible and transparent on our website. All fees are brought to customers' attention and agreed prior to boarding.'
 
 Holiday Deals Of The Week Free currency exchange card FairFX reader offer 0% currency fees Balance transfer Post Office Platinum credit card 0% currency fees Low interest rate Saga Platinum credit card 0% foreign fees Flight upgrade deal Lloyds Avios Card 0% foreign fees Free cash abroad Halifax Clarity credit card",news,2018-10-20,2018-10-20T22:42:00Z,eng-4364609,0.0,eng,0.3176470696926117,22:42:00,Budget airlines rake in billions from extras,974520809,https://www.thisismoney.co.uk/money/holidays/article-6298451/Budget-airlines-rake-billions-extras-cost-FIVE-TIMES-ticket.html,dailymail.co.uk,news,Daily Mail Online,13,Shivam,0
-3,[],"This has pushed up average amount paid in extras per passenger to around £15
+3,3,[],"This has pushed up average amount paid in extras per passenger to around £15
 
 Ryanair is squeezing more than £6million a day in extra charges from passengers, it emerged yesterday.
 
@@ -171,7 +171,7 @@ Its initial findings show that on Ryanair more than one in three families are se
 But Guy Anker, managing editor at Moneysavingexpert, said: 'It is appalling if this is a deliberate tactic.' He added: 'These charges are not hidden, but they're still sneaky.'
 
 A Ryanair spokesman said: 'Customers may choose to purchase additional products and services, the prices for which are fully transparent and displayed throughout the booking process.'",news,2018-10-22,2018-10-22T23:05:00Z,eng-4364609,0.0,eng,0.3960784375667572,23:05:00,Ryanair generates whopping £1.5billion in just six months from add-ons,975981521,https://www.dailymail.co.uk/news/article-6304923/Ryanair-generates-whopping-1-5billion-just-six-months-add-ons.html,dailymail.co.uk,news,Daily Mail Online,13,Myriam,0
-4,[],"By Mark Duell for MailOnline and Mario Ledwith and Sami Quadri For The Daily Mail
+4,4,[],"By Mark Duell for MailOnline and Mario Ledwith and Sami Quadri For The Daily Mail
 
 Ryanair came under intense pressure today after refusing to kick off a passenger who launched a torrent of racist abuse at a 77-year-old pensioner sitting beside him.
 
@@ -332,7 +332,7 @@ A spokesman for Essex Police said: 'This incident, which we were made aware of (
 'Essex Police takes prejudice-based crime seriously and we want all incidents to be reported. We are working closely with Ryanair and the Spanish authorities on the investigation.'
 
 Do you know the man? Were you on board? Email: mark.duell@mailonline.co.uk",news,2018-10-22,2018-10-22T09:21:00Z,eng-4364609,0.0,eng,0.7764706015586853,09:21:00,Calls for passengers to boycott Ryanair after racist incident,975409980,https://www.dailymail.co.uk/news/article-6302425/Calls-passengers-boycott-Ryanair-staff-refused-action-against-racist-passenger.html,dailymail.co.uk,news,Daily Mail Online,13,Ana,0
-5,"[{'uri': 'reuters@dailymail.co.uk', 'name': 'Reuters', 'type': 'author', 'isAgency': True}]","LONDON, Oct 22 (Reuters) - British police are investigating after footage of a man shouting racist abuse at an elderly black woman on a Ryanair flight went viral over the weekend, with the airline facing criticism over how it dealt with the incident.
+5,5,"[{'uri': 'reuters@dailymail.co.uk', 'name': 'Reuters', 'type': 'author', 'isAgency': True}]","LONDON, Oct 22 (Reuters) - British police are investigating after footage of a man shouting racist abuse at an elderly black woman on a Ryanair flight went viral over the weekend, with the airline facing criticism over how it dealt with the incident.
 
 The unidentified man insulted her after complaining that she had inconvenienced him as he tried to reach his seat aboard .
 
@@ -359,7 +359,7 @@ Lawrence added that the woman, who he is in touch with, was from the Windrush ge
 ""If the roles had been reversed, if that was a black man abusing an elderly, disabled white woman, I know that the outcome would have been completely different,"" he said.
 
 (Reporting by Alistair Smout Additional reporting by Conor Humphries in Dublin Editing by Guy Faulconbridge and Raissa Kasolowsky)",news,2018-10-22,2018-10-22T10:41:00Z,eng-4364609,0.0,eng,0.6509804129600525,10:41:00,Ryanair passenger's racist rant prompts British police investigation,975469446,https://www.dailymail.co.uk/wires/reuters/article-6302753/Ryanair-passengers-racist-rant-prompts-British-police-investigation.html,dailymail.co.uk,news,Daily Mail Online,13,Hugo,0
-6,[],"A Ryanair passenger who racially abused a Windrush immigrant on a plane will 'get away scot-free' because of the airline's profit-hungry tactics, MPs claimed last night.
+6,6,[],"A Ryanair passenger who racially abused a Windrush immigrant on a plane will 'get away scot-free' because of the airline's profit-hungry tactics, MPs claimed last night.
 
 Politicians said Ryanair staff 'failed spectacularly' by refusing to throw off the man or immediately report him to police despite watching his repeated abuse of Delsie Gayle, 77.
 
@@ -421,8 +421,8 @@ Labour MP David Lammy has led criticism of the airline by calling for a boycott 
 
 Shadow home secretary Diane Abbott said: 'Surely Ryanair should be contacting this woman and apologising for the racist abuse she suffered?'
 
-Labour MP Ben Bradshaw said: 'I hope that Essex Police are knocking on this vile racist's door this morning.'",news,2018-10-22,2018-10-22T21:32:00Z,eng-4364609,0.0,eng,0.6078431606292725,21:32:00,MPs claim Ryanair passenger could get away with racist rant,975930002,https://www.dailymail.co.uk/news/article-6304873/Ryanair-passenger-away-scot-free-sickening-racist-rant-warn-MPs.html,dailymail.co.uk,news,Daily Mail Online,13,David,0
-7,[],"A Ryanair passenger who racially abused a Windrush immigrant on a plane will 'get away scot-free' because of the airline's profit-hungry tactics, MPs have claimed.
+Labour MP Ben Bradshaw said: 'I hope that Essex Police are knocking on this vile racist's door this morning.'",news,2018-10-22,2018-10-22T21:32:00Z,eng-4364609,0.0,eng,0.6078431606292725,21:32:00,MPs claim Ryanair passenger could get away with racist rant,975930002,https://www.dailymail.co.uk/news/article-6304873/Ryanair-passenger-away-scot-free-sickening-racist-rant-warn-MPs.html,dailymail.co.uk,news,Daily Mail Online,13,David,2
+7,7,[],"A Ryanair passenger who racially abused a Windrush immigrant on a plane will 'get away scot-free' because of the airline's profit-hungry tactics, MPs have claimed.
 
 Politicians said Ryanair staff 'failed spectacularly' by refusing to throw off the man or immediately report him to police despite watching his abuse of Delsie Gayle, 77.
 
@@ -613,7 +613,7 @@ She said Ryanair staff refused to do anything, despite the family complaining th
 Both Mrs Gayle and her husband Austin were originally from Jamaica. After moving to the UK in 1965, Mrs Gayle spent more than two decades working as a care assistant.
 
 The Ryanair incident happened at the end of a three-day trip to the Costa Brava planned by Carol, one of her three daughters, to help her over the grief of losing her husband a year ago.",news,2018-10-23,2018-10-23T09:01:00Z,eng-4364609,0.0,eng,0.7215686440467834,09:01:00,Police identify Ryanair passenger who racially abused woman,976281758,https://www.dailymail.co.uk/news/article-6306379/Police-identify-Ryanair-passenger-racially-abused-Windrush-immigrant.html,dailymail.co.uk,news,Daily Mail Online,13,Asif,0
-8,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","A man who was filmed racially abusing an elderly woman on a Ryanair flight has been identified, police said.
+8,8,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","A man who was filmed racially abusing an elderly woman on a Ryanair flight has been identified, police said.
 
 Delsie Gayle, 77, who was called an ""ugly black bastard"" and told ""don't speak to me in a foreign language, you stupid ugly cow"", will now be able to give police a statement about the incident, her daughter said.
 
@@ -640,7 +640,7 @@ Mrs Gayle's daughter had arranged the trip in an attempt to cheer her mother up 
 She said: ""It's coming up to a year of my dad's death, so I thought I'd take my mum away just for a little mini-break.
 
 ""Mum was already feeling low because of Dad, and now with Ryanair it's made her feel more depressed.""",news,2018-10-23,2018-10-23T11:44:00Z,eng-4364609,0.0,eng,0.501960813999176,11:44:00,Ryanair 'racism´ victim told to expect to give police statement,976408176,https://www.dailymail.co.uk/wires/pa/article-6307049/Ryanair-racism-victim-told-expect-police-statement.html,dailymail.co.uk,news,Daily Mail Online,13,Shivam,0
-9,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","Ryanair has reported a 7% fall in profits for the first half of the year.
+9,9,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","Ryanair has reported a 7% fall in profits for the first half of the year.
 
 The budget airline said on Monday that average fares declined 3% due to excess capacity in Europe, an earlier Easter in the first quarter, and repeated strikes and staff shortages which caused a spike in cancellations of higher fare, weekend flights.
 
@@ -650,8 +650,8 @@ The airline's chief executive, Michael O'Leary, said: ""As recently guided, H1 a
 
 ""Our traffic, which was repeatedly impacted by the worst summer of ATC (air traffic control) disruptions on record, grew 6% at an unchanged 96% load factor.""
 
-Ryanair said average fares declined 3% due to excess capacity in Europe (John Stillwell/PA)",news,2018-10-22,2018-10-22T05:55:00Z,eng-4364609,0.0,eng,0.321568638086319,05:55:00,Ryanair reports half-year profits down 7%,975280000,https://www.dailymail.co.uk/wires/pa/article-6302077/Ryanair-reports-half-year-profits-7.html,dailymail.co.uk,news,Daily Mail Online,13,Myriam,0
-10,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","A man who was filmed racially abusing an elderly woman on a Ryanair flight has been identified, police said.
+Ryanair said average fares declined 3% due to excess capacity in Europe (John Stillwell/PA)",news,2018-10-22,2018-10-22T05:55:00Z,eng-4364609,0.0,eng,0.32156863808631897,05:55:00,Ryanair reports half-year profits down 7%,975280000,https://www.dailymail.co.uk/wires/pa/article-6302077/Ryanair-reports-half-year-profits-7.html,dailymail.co.uk,news,Daily Mail Online,13,Myriam,0
+10,10,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","A man who was filmed racially abusing an elderly woman on a Ryanair flight has been identified, police said.
 
 Footage posted on social media appeared to show a plane passenger calling Delsie Gayle an ""ugly black bastard"" and telling her ""don't speak to me in a foreign language, you stupid ugly cow"".
 
@@ -686,7 +686,7 @@ She told ITV News: ""He should have been moved or taken off the plane and nothin
 ""Nobody has apologised. We've not had nothing. We just want an open apology from Ryanair.
 
 ""I can't even watch the video any more, it's just so upsetting.""",news,2018-10-23,2018-10-23T10:10:00Z,eng-4364609,0.0,eng,0.6705882549285889,10:10:00,"Man filmed racially abusing woman on Ryanair flight identified,...",976335043,https://www.dailymail.co.uk/wires/pa/article-6306699/Man-filmed-racially-abusing-woman-Ryanair-flight-identified-police-say.html,dailymail.co.uk,news,Daily Mail Online,13,Ana,0
-11,[],"This is the shocking moment a passenger on a Ryanair flight unleashed a torrent of racist abuse at an elderly woman sitting next to him.
+11,11,[],"This is the shocking moment a passenger on a Ryanair flight unleashed a torrent of racist abuse at an elderly woman sitting next to him.
 
 A white man and a black woman can be seen with one seat between them while other outraged passengers try to calm the situation.
 
@@ -741,7 +741,7 @@ Fellow MSP politician Margaret Ferrier said: 'Just watched the shocking footage 
 'However well done to passenger with black t-shirt that intervened £hero.'
 
 A spokesperson for Ryanair said: 'We have reported this to the police in Essex and as this is now a police matter, we cannot comment further.'",news,2018-10-21,2018-10-21T09:50:00Z,eng-4364609,0.0,eng,0.6666666865348816,09:50:00,Ryanair passenger shouts torrent of racist abuse at woman next to him,974761726,https://www.dailymail.co.uk/news/article-6299671/Shocking-moment-Ryanair-passenger-unleashes-torrent-racist-abuse-woman-sitting-him.html,dailymail.co.uk,news,Daily Mail Online,13,Hugo,0
-12,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","A Ryanair passenger who launched a racist tirade may ""get away with it"" due to the airline wanting to get the plane off the ground, a shadow transport minister said.
+12,12,"[{'uri': 'press_association@dailymail.co.uk', 'name': 'Press Association', 'type': 'author', 'isAgency': True}]","A Ryanair passenger who launched a racist tirade may ""get away with it"" due to the airline wanting to get the plane off the ground, a shadow transport minister said.
 
 The man was filmed by a fellow passenger calling the elderly woman in the seat next to him an ""ugly black bastard"", and shouting ""don't talk to me in a foreign language you stupid ugly cow"".
 
@@ -791,8 +791,8 @@ A spokeswoman for Essex police said: ""This incident, which we were made aware o
 
 ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
-""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T01:58:00Z,eng-4364609,0.0,eng,0.8039215803146362,01:58:00,"Man may 'get away with´ racist behaviour on Ryanair flight, MP warns",975187284,https://www.dailymail.co.uk/wires/pa/article-6301649/Man-away-racist-behaviour-Ryanair-flight-MP-warns.html,dailymail.co.uk,news,Daily Mail Online,13,David,0
-13,"[{'uri': 'lucy_middleton@metro.co.uk', 'name': 'Lucy Middleton', 'type': 'author', 'isAgency': False}]","Daughter speaks out after distraught elderly mum is called an 'ugly black b*stard' on Ryanair flight Lucy MiddletonSunday 21 Oct 2018 10:09 pm
+""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T01:58:00Z,eng-4364609,0.0,eng,0.8039215803146362,01:58:00,"Man may 'get away with´ racist behaviour on Ryanair flight, MP warns",975187284,https://www.dailymail.co.uk/wires/pa/article-6301649/Man-away-racist-behaviour-Ryanair-flight-MP-warns.html,dailymail.co.uk,news,Daily Mail Online,13,David,3
+13,13,"[{'uri': 'lucy_middleton@metro.co.uk', 'name': 'Lucy Middleton', 'type': 'author', 'isAgency': False}]","Daughter speaks out after distraught elderly mum is called an 'ugly black b*stard' on Ryanair flight Lucy MiddletonSunday 21 Oct 2018 10:09 pm
 
 An elderly black woman who was racially abused by a male passenger on a Ryanair flight has been revealed as a Windrush generation widow.
 
@@ -851,7 +851,7 @@ Got a story for Metro.co.uk?
 If you have a story for our news team, email us at webnews@metro.co.uk.
 
 You can also follow us on Facebook and Twitter.",news,2018-10-21,2018-10-21T21:17:00Z,eng-4364609,0.0,eng,0.6000000238418579,21:17:00,Daughter speaks out after elderly mum called 'black b*stard' on Ryanair flight,975085595,https://metro.co.uk/2018/10/21/daughter-speaks-out-after-distraught-elderly-mum-is-called-an-ugly-black-bstard-on-ryanair-flight-8061265/,metro.co.uk,news,Metro,9,Asif,0
-14,"[{'uri': 'adam_starkey@metro.co.uk', 'name': 'Adam Starkey', 'type': 'author', 'isAgency': False}]","Eamonn Holmes launches epic rant against Ryanair after they snub apology to victim of racial abuse on This Morning Adam StarkeyTuesday 23 Oct 2018 11:12 am
+14,14,"[{'uri': 'adam_starkey@metro.co.uk', 'name': 'Adam Starkey', 'type': 'author', 'isAgency': False}]","Eamonn Holmes launches epic rant against Ryanair after they snub apology to victim of racial abuse on This Morning Adam StarkeyTuesday 23 Oct 2018 11:12 am
 
 Eamonn Holmes brutally criticised Ryanair on live TV after the flight company refused to comment on a woman who was victim to racial abuse aboard their service.
 
@@ -876,7 +876,7 @@ Carol confirmed police are expected to take a statement from Delsie on Thursday,
 You can catch This Morning weekdays on ITV at 10.30am.
 
 MORE: Woman tweets her journey from Northern Ireland to Liverpool to have an abortion after she was told her baby won't survive",news,2018-10-23,2018-10-23T10:13:00Z,eng-4364609,0.0,eng,0.3607843220233917,10:13:00,Eamonn Holmes rips into Ryanair after they snub apology to racial abuse victim,976337257,https://metro.co.uk/2018/10/23/eamonn-holmes-launches-epic-rant-against-ryanair-after-they-snub-apology-to-victim-of-racial-abuse-on-this-morning-8066218/,metro.co.uk,news,Metro,9,Shivam,0
-15,"[{'uri': 'lucy_middleton@metro.co.uk', 'name': 'Lucy Middleton', 'type': 'author', 'isAgency': False}]","Ryanair passenger's racist abuse left elderly woman 'low' and unable to eat or sleep Lucy MiddletonMonday 22 Oct 2018 5:15 pm
+15,15,"[{'uri': 'lucy_middleton@metro.co.uk', 'name': 'Lucy Middleton', 'type': 'author', 'isAgency': False}]","Ryanair passenger's racist abuse left elderly woman 'low' and unable to eat or sleep Lucy MiddletonMonday 22 Oct 2018 5:15 pm
 
 An elderly black woman who was racially abused on an Ryanair flight has told how the ordeal left her 'very low' and unable to eat or sleep.
 
@@ -933,7 +933,7 @@ Got a story for Metro.co.uk?
 If you have a story for our news team, email us at webnews@metro.co.uk.
 
 You can also follow us on Facebook and Twitter.",news,2018-10-22,2018-10-22T16:15:00Z,eng-4364609,0.0,eng,0.5921568870544434,16:15:00,Ryanair passenger's racist abuse left elderly woman 'low' and unable to sleep,975727154,https://metro.co.uk/2018/10/22/ryanair-passengers-racist-abuse-left-elderly-woman-low-and-unable-to-eat-or-sleep-8063959/,metro.co.uk,news,Metro,9,Myriam,0
-16,"[{'uri': 'bradley_jolly@metro.co.uk', 'name': 'Bradley Jolly', 'type': 'author', 'isAgency': False}]","Racist abuse on Ryanair flight being investigated by police in the UK and Spain Bradley JollyTuesday 23 Oct 2018 10:21 am
+16,16,"[{'uri': 'bradley_jolly@metro.co.uk', 'name': 'Bradley Jolly', 'type': 'author', 'isAgency': False}]","Racist abuse on Ryanair flight being investigated by police in the UK and Spain Bradley JollyTuesday 23 Oct 2018 10:21 am
 
 Details of an incident in which a man was caught on camera racially abusing an elderly woman after she sat next to him on a Ryanair flight have now been passed to police in Spain.
 
@@ -966,7 +966,7 @@ Got a story for Metro.co.uk?
 If you have a story for our news team, email us at webnews@metro.co.uk.
 
 You can also follow us on Facebook and Twitter.",news,2018-10-23,2018-10-23T09:22:00Z,eng-4364609,0.0,eng,0.5921568870544434,09:22:00,Police 'worked to identify' man filmed racially abusing woman on Ryanair flight,976297985,https://metro.co.uk/2018/10/23/racist-abuse-on-ryanair-flight-being-investigated-by-police-in-the-uk-and-spain-8065676/,metro.co.uk,news,Metro,9,Ana,0
-17,"[{'uri': 'georgia_diebelius@metro.co.uk', 'name': 'Georgia Diebelius', 'type': 'author', 'isAgency': False}]","Man filmed hurling racist abuse at woman sat near him on plane Georgia DiebeliusSunday 21 Oct 2018 12:50 pm
+17,17,"[{'uri': 'georgia_diebelius@metro.co.uk', 'name': 'Georgia Diebelius', 'type': 'author', 'isAgency': False}]","Man filmed hurling racist abuse at woman sat near him on plane Georgia DiebeliusSunday 21 Oct 2018 12:50 pm
 
 A man was caught on camera racially abusing an elderly woman after she sat next to him on a Ryanair flight.
 
@@ -993,7 +993,7 @@ Commenting on Facebook, one woman said: 'Glad to see the man behind them interve
 Another added: 'What a joke the cabin crew member should have gone straight to the captain and got the racist bastard took off the flight.'
 
 A spokesperson for Ryanair said: 'We are aware of this video and have reported this matter to Essex Police.'",news,2018-10-21,2018-10-21T11:51:00Z,eng-4364609,0.0,eng,0.5372549295425415,11:51:00,Man filmed hurling racist abuse at woman sat near him on plane,974818978,https://metro.co.uk/2018/10/21/man-filmed-hurling-racist-abuse-at-woman-sat-near-him-on-plane-8059615/,metro.co.uk,news,Metro,9,Hugo,0
-18,"[{'uri': 'tanveer_mann@metro.co.uk', 'name': 'Tanveer Mann', 'type': 'author', 'isAgency': False}]","Woman racially abused by Ryanair passenger says she feels 'depressed and upset' by her ordeal Tanveer MannTuesday 23 Oct 2018 12:20 pm
+18,18,"[{'uri': 'tanveer_mann@metro.co.uk', 'name': 'Tanveer Mann', 'type': 'author', 'isAgency': False}]","Woman racially abused by Ryanair passenger says she feels 'depressed and upset' by her ordeal Tanveer MannTuesday 23 Oct 2018 12:20 pm
 
 An elderly woman who was racially abused by a passenger on a Ryanair flight has spoken out about the shocking attack.
 
@@ -1027,8 +1027,8 @@ Got a story for Metro.co.uk?
 
 If you have a story for our news team, email us at webnews@metro.co.uk.
 
-You can also follow us on Facebook and Twitter.",news,2018-10-23,2018-10-23T11:24:00Z,eng-4364609,0.0,eng,0.5764706134796143,11:24:00,Woman racially abused by Ryanair passenger says she feels 'upset' by her ordeal,976392679,https://metro.co.uk/2018/10/23/woman-racially-abused-by-ryanair-passenger-says-she-feels-depressed-and-upset-by-her-ordeal-8066254/,metro.co.uk,news,Metro,9,David,0
-19,"[{'uri': 'richard_hartley_parkinson@metro.co.uk', 'name': 'Richard Hartley-Parkinson', 'type': 'author', 'isAgency': False}]","Racist Ryanair passenger who called woman 'ugly black b*****d' could get away with it Richard Hartley-ParkinsonMonday 22 Oct 2018 6:32 am
+You can also follow us on Facebook and Twitter.",news,2018-10-23,2018-10-23T11:24:00Z,eng-4364609,0.0,eng,0.5764706134796143,11:24:00,Woman racially abused by Ryanair passenger says she feels 'upset' by her ordeal,976392679,https://metro.co.uk/2018/10/23/woman-racially-abused-by-ryanair-passenger-says-she-feels-depressed-and-upset-by-her-ordeal-8066254/,metro.co.uk,news,Metro,9,David,4
+19,19,"[{'uri': 'richard_hartley_parkinson@metro.co.uk', 'name': 'Richard Hartley-Parkinson', 'type': 'author', 'isAgency': False}]","Racist Ryanair passenger who called woman 'ugly black b*****d' could get away with it Richard Hartley-ParkinsonMonday 22 Oct 2018 6:32 am
 
 A Ryanair passenger who launched a racist tirade may 'get away with it' due to the airline wanting to get the plane off the ground, a shadow transport minister said.
 
@@ -1087,7 +1087,7 @@ A spokeswoman for Essex police said: 'This incident, which we were made aware of
 'Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 'We are working closely with Ryanair and the Spanish authorities on the investigation.'",news,2018-10-22,2018-10-22T05:39:00Z,eng-4364609,0.0,eng,0.7960784435272217,05:39:00,Racist Ryanair passenger who called woman 'black b*****d' could get away with it,975272252,https://metro.co.uk/2018/10/22/racist-ryanair-passenger-who-called-woman-ugly-black-bd-could-get-away-with-it-8061588/,metro.co.uk,news,Metro,9,Asif,0
-20,"[{'uri': 'jen_mills@metro.co.uk', 'name': 'Jen Mills', 'type': 'author', 'isAgency': False}]","Ryanair passenger identified by police after calling woman an 'ugly black b*****d' Jen MillsTuesday 23 Oct 2018 6:33 pm
+20,20,"[{'uri': 'jen_mills@metro.co.uk', 'name': 'Jen Mills', 'type': 'author', 'isAgency': False}]","Ryanair passenger identified by police after calling woman an 'ugly black b*****d' Jen MillsTuesday 23 Oct 2018 6:33 pm
 
 Police have managed to find the man filmed racially abusing a woman next to him on a Ryanair flight.
 
@@ -1124,7 +1124,7 @@ Got a story for Metro.co.uk?
 If you have a story for our news team, email us at webnews@metro.co.uk.
 
 You can also follow us on Facebook and Twitter.",news,2018-10-23,2018-10-23T17:36:00Z,eng-4364609,0.0,eng,0.6000000238418579,17:36:00,Ryanair passenger identified by police after calling woman an 'ugly black b*****,976687997,https://metro.co.uk/2018/10/23/ryanair-passenger-identified-by-police-after-calling-woman-an-ugly-black-bd-8068023/,metro.co.uk,news,Metro,9,Shivam,0
-21,"[{'uri': 'rishma_dosani@metro.co.uk', 'name': 'Rishma Dosani', 'type': 'author', 'isAgency': False}]","Nile Rodgers claims Ryanair staff wouldn't even give him water for cancer medication as airline faces racist video backlash Rishma DosaniMonday 22 Oct 2018 3:39 pm
+21,21,"[{'uri': 'rishma_dosani@metro.co.uk', 'name': 'Rishma Dosani', 'type': 'author', 'isAgency': False}]","Nile Rodgers claims Ryanair staff wouldn't even give him water for cancer medication as airline faces racist video backlash Rishma DosaniMonday 22 Oct 2018 3:39 pm
 
 Nile Rodgers has claimed Ryanair staff wouldn't give him a glass of water for his cancer medication while on board a flight.
 
@@ -1179,7 +1179,7 @@ If you've got a story, video or pictures get in touch with the Metro.co.uk Enter
 MORE: Daughter speaks out after distraught elderly mum is called an 'ugly black b*stard' on Ryanair flight
 
 MORE: Nile Rodgers reveals Niall Horan was Louis Tomlinson's first pick for X Factor's Judges' Houses: 'I only did it as a favour'",news,2018-10-22,2018-10-22T14:42:00Z,eng-4364609,0.0,eng,0.5137255191802979,14:42:00,Nile Rodgers claims Ryanair staff wouldn't give him water for cancer medicine,975654757,https://metro.co.uk/2018/10/22/nile-rodgers-claims-ryanair-staff-wouldnt-even-give-him-water-for-cancer-medication-as-airline-faces-racist-video-backlash-8063586/,metro.co.uk,news,Metro,9,Myriam,0
-22,"[{'uri': 'harriet_agerholm@independent.co.uk', 'name': 'Harriet Agerholm', 'type': 'author', 'isAgency': False}]","Ryanair has vowed to ban abusive passengers from its flights after a man launched a racist tirade against a woman in her 70s.
+22,22,"[{'uri': 'harriet_agerholm@independent.co.uk', 'name': 'Harriet Agerholm', 'type': 'author', 'isAgency': False}]","Ryanair has vowed to ban abusive passengers from its flights after a man launched a racist tirade against a woman in her 70s.
 
 The announcement comes after customers threatened to boycott the airline because of its apparent inaction during the incident, which occurred on a plane flying from Barcelona to London Stansted.
 
@@ -1238,7 +1238,7 @@ Essex Police said in a statement on Sunday: ""This incident, which we were made 
 ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-21,2018-10-21T17:03:00Z,eng-4364609,0.0,eng,0.7411764860153198,17:03:00,Ryanair vows to ban racially offensive passengers after man abuses woman on flight to London,974972838,https://www.independent.co.uk/news/uk/home-news/ryanair-racist-video-passenger-ban-offense-london-flight-black-white-a8594951.html,independent.co.uk,news,The Independent,8,Ana,0
-23,"[{'uri': 'harriet_agerholm@independent.co.uk', 'name': 'Harriet Agerholm', 'type': 'author', 'isAgency': False}]","Customers have threatened to boycott Ryanair after airline staff failed to remove a racially abusive man from a flight.
+23,23,"[{'uri': 'harriet_agerholm@independent.co.uk', 'name': 'Harriet Agerholm', 'type': 'author', 'isAgency': False}]","Customers have threatened to boycott Ryanair after airline staff failed to remove a racially abusive man from a flight.
 
 Footage of a white man calling woman an ""ugly black bastard"" on the flight from Barcelona to London Stansted has sparked outrage and has been shared tens of thousands of times on Facebook.
 
@@ -1289,12 +1289,12 @@ In a later tweet she said the woman had been referred to Ryanair's customer serv
 The budget airline tweeted on Sunday that it was aware of the video and had reported the incident to Essex police.
 
 It added: ""As this is now a police matter, we cannot comment further.""",news,2018-10-21,2018-10-21T11:21:00Z,eng-4364609,0.0,eng,0.7176470756530762,11:21:00,Calls for Ryanair boycott after man who refused to sit next to black woman is not removed from flight,974804672,https://www.independent.co.uk/news/uk/home-news/ryanair-boycott-airline-racist-white-man-video-black-woman-abusive-a8594456.html,independent.co.uk,news,The Independent,8,Hugo,0
-24,"[{'uri': 'tom_batchelor@independent.co.uk', 'name': 'Tom Batchelor', 'type': 'author', 'isAgency': False}]","Essex Police investigating racist abuse targeted at a black woman on a Ryanair flight have passed information to their Spanish counterparts and are working to identify ""both parties"", the force said.
+24,24,"[{'uri': 'tom_batchelor@independent.co.uk', 'name': 'Tom Batchelor', 'type': 'author', 'isAgency': False}]","Essex Police investigating racist abuse targeted at a black woman on a Ryanair flight have passed information to their Spanish counterparts and are working to identify ""both parties"", the force said.
 
 The victim was subjected to a tirade of abuse while the jet was waiting on the tarmac at Barcelona airport.
 
-In the incident, captured on camera, the man can be heard calling the elderly woman an ""ugly black b******"", and shouting ""don't talk to me in a foreign language you stupid ugly cow"".",news,2018-10-23,2018-10-23T08:02:00Z,eng-4364609,0.0,eng,0.5058823823928833,08:02:00,Essex Police investigating Ryanair racism pass details to Spanish officials,976239269,https://www.independent.co.uk/news/uk/crime/ryanair-racist-video-man-delsie-gayle-essex-police-spain-flight-attack-a8597076.html,independent.co.uk,news,The Independent,8,David,0
-25,"[{'uri': 'biba_kang@independent.co.uk', 'name': 'Biba Kang', 'type': 'author', 'isAgency': False}]","On Friday, footage of an elderly black woman being abused on a Ryanair flight went viral. In the video, filmed by a fellow passenger, a white man can be heard shouting at a black woman, calling her an ""ugly black bastard"". When the woman responds in a Jamaican accent, the man shouts ""Don't talk to me in a f***ing foreign language, you stupid, ugly cow."" He threatens to ""push"" her if she doesn't leave her seat.
+In the incident, captured on camera, the man can be heard calling the elderly woman an ""ugly black b******"", and shouting ""don't talk to me in a foreign language you stupid ugly cow"".",news,2018-10-23,2018-10-23T08:02:00Z,eng-4364609,0.0,eng,0.5058823823928833,08:02:00,Essex Police investigating Ryanair racism pass details to Spanish officials,976239269,https://www.independent.co.uk/news/uk/crime/ryanair-racist-video-man-delsie-gayle-essex-police-spain-flight-attack-a8597076.html,independent.co.uk,news,The Independent,8,David,5
+25,25,"[{'uri': 'biba_kang@independent.co.uk', 'name': 'Biba Kang', 'type': 'author', 'isAgency': False}]","On Friday, footage of an elderly black woman being abused on a Ryanair flight went viral. In the video, filmed by a fellow passenger, a white man can be heard shouting at a black woman, calling her an ""ugly black bastard"". When the woman responds in a Jamaican accent, the man shouts ""Don't talk to me in a f***ing foreign language, you stupid, ugly cow."" He threatens to ""push"" her if she doesn't leave her seat.
 
 Instead of removing this man from their flight, Ryanair escort the woman, who we now know is Mrs Gayle, a 77-year-old member of the Windrush generation, to a new row. Since the video went viral - a factor which must have complicated and possibly compounded the victim's trauma - she has apparently received no apology from the airline. Mrs Gayle's family told Nadine White at HuffPost UK that they are ""surprised, disgusted and hurt"" by this lack of contrition.
 
@@ -1313,7 +1313,7 @@ And if this is how a vulnerable female pensioner is treated, imagine how young b
 The idea that black people must have somehow been complicit in their own mistreatment is so deeply entrenched that a frail pensioner was treated like a scrapper in a pub brawl, moved away from her abuser as he assures people ""I'm alright"".
 
 We love to say ""no smoke without fire"", but it's this very mentality that allows racism, and most particularly anti-black racism, to thrive in modern society. We need to understand that bigotry is provoked by nothing more or less than the colour of somebody's skin.",news,2018-10-22,2018-10-22T14:57:00Z,eng-4364609,0.0,eng,0.4980392158031464,14:57:00,'The racist incident on a Ryanair flight is what happens when black people are stereotyped as confrontational',975666064,https://www.independent.co.uk/voices/doctor-who-rosa-parks-episode-series-11-ryanair-racist-video-flight-plane-a8596071.html,independent.co.uk,news,The Independent,8,Asif,0
-26,"[{'uri': 'cathy_adams@independent.co.uk', 'name': 'Cathy Adams', 'type': 'author', 'isAgency': False}]","A passenger who was the subject of a racist tirade on a Ryanair flight from Barcelona to Stansted has said she has not been contacted by the airline.
+26,26,"[{'uri': 'cathy_adams@independent.co.uk', 'name': 'Cathy Adams', 'type': 'author', 'isAgency': False}]","A passenger who was the subject of a racist tirade on a Ryanair flight from Barcelona to Stansted has said she has not been contacted by the airline.
 
 Footage recorded by fellow passenger David Lawrence shows the man calling the woman in her 70s, known as Mrs Gayle, an ""ugly black bastard"" and telling her ""Don't talk to me in a f****** foreign language you stupid ugly cow.""
 
@@ -1334,7 +1334,7 @@ Commentators have taken to Twitter to denounce the incident.
 The Independent has asked Ryanair for comment.
 
 Separately, profits at the budget airline slumped 7 per cent to €1.2bn (£1.057bn), following a summer of strikes and other disruption, according to half-year results released this morning.",news,2018-10-22,2018-10-22T11:50:00Z,eng-4364609,0.0,eng,0.6549019813537598,11:50:00,Elderly Ryanair passenger at centre of racist abuse storm says 'she has not been contacted' by the airline,975521163,https://www.independent.co.uk/travel/news-and-advice/ryanair-passenger-racist-abuse-watch-video-a8595661.html,independent.co.uk,news,The Independent,8,Shivam,0
-27,"[{'uri': 'peter_stubley@independent.co.uk', 'name': 'Peter Stubley', 'type': 'author', 'isAgency': False}]","A Ryanair passenger who racially abused an elderly woman sitting next to him on a plane may ""get away with it"", a shadow transport minister said.
+27,27,"[{'uri': 'peter_stubley@independent.co.uk', 'name': 'Peter Stubley', 'type': 'author', 'isAgency': False}]","A Ryanair passenger who racially abused an elderly woman sitting next to him on a plane may ""get away with it"", a shadow transport minister said.
 
 The man was filmed calling the 77 year-old victim an ""ugly black bastard"" and shouting ""don't talk to me in a foreign language you stupid ugly cow"".
 
@@ -1381,7 +1381,7 @@ Essex Police said they believed the incident had taken place at Barcelona Airpor
 ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported,"" a spokeswoman said.
 
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T07:43:00Z,eng-4364609,0.0,eng,0.7568627595901489,07:43:00,"Ryanair racist may get away with abusing elderly woman, MP says",975344381,https://www.independent.co.uk/news/uk/home-news/ryanair-racist-video-flight-passenger-boycott-black-white-police-a8595351.html,independent.co.uk,news,The Independent,8,Myriam,0
-28,"[{'uri': 'tom_embury_dennis@independent.co.uk', 'name': 'Tom Embury-Dennis', 'type': 'author', 'isAgency': False}]","A black disabled woman who was racially abused on a Ryanair flight to London has spoken about her ""shock"" over the incident.
+28,28,"[{'uri': 'tom_embury_dennis@independent.co.uk', 'name': 'Tom Embury-Dennis', 'type': 'author', 'isAgency': False}]","A black disabled woman who was racially abused on a Ryanair flight to London has spoken about her ""shock"" over the incident.
 
 Delsie Gayle was called an ""ugly black bastard"" by a white man sitting next to her on a flight from Barcelona to London Stansted on Friday.
 
@@ -1426,7 +1426,7 @@ On Sunday, Ryanair put out a statement on Twitter failing to apologise, only say
 A spokesperson for Essex Police said: ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T18:00:00Z,eng-4364609,0.0,eng,0.729411780834198,18:00:00,Ryanair racism victim breaks silence to reveal 'shock' after footage of incident posted on Facebook,975800369,https://www.independent.co.uk/news/uk/home-news/ryanair-racist-video-flight-boycott-black-woman-white-man-delsie-gayle-a8596461.html,independent.co.uk,news,The Independent,8,Ana,0
-29,"[{'uri': 'simon_calder@independent.co.uk', 'name': 'Simon Calder', 'type': 'author', 'isAgency': False}]","After a summer of strikes and other disruption, profits at Europe's biggest budget airline have fallen by 7 per cent to €1.2bn (£1.057bn).
+29,29,"[{'uri': 'simon_calder@independent.co.uk', 'name': 'Simon Calder', 'type': 'author', 'isAgency': False}]","After a summer of strikes and other disruption, profits at Europe's biggest budget airline have fallen by 7 per cent to €1.2bn (£1.057bn).
 
 Ryanair also warns: ""The risk of a hard ('no-deal') Brexit in March 2019 is rising. While we hope that a 21-month transition agreement from March 2019 to December 2020 will be implemented (and extended), we remain concerned that the time to complete such an agreement is shortening.""
 
@@ -1465,7 +1465,7 @@ Ryanair remains by far the most profitable airline in Europe, as well as the saf
 It has faced intense criticism over an incident in which a white male on a flight about to depart from Barcelona to Stansted launched a tirade of racist abuse against a black fellow passenger.
 
 The man was allowed to continue to fly, while the woman he abused moved to a different seat.",news,2018-10-22,2018-10-22T06:28:00Z,eng-4364609,0.0,eng,0.4274509847164154,06:28:00,Ryanair profits hit by summer of strikes,975297405,https://www.independent.co.uk/travel/news-and-advice/ryanair-profits-brexit-no-deal-strikes-airline-flights-michael-oleary-a8595201.html,independent.co.uk,news,The Independent,8,Hugo,0
-30,"[{'uri': 'anne_marie_walsh@independent.ie', 'name': 'Anne-Marie Walsh', 'type': 'author', 'isAgency': False}]","The woman who was subjected to a racist tirade on board a Ryanair flight said that she feels ""very low"" after the incident.
+30,30,"[{'uri': 'anne_marie_walsh@independent.ie', 'name': 'Anne-Marie Walsh', 'type': 'author', 'isAgency': False}]","The woman who was subjected to a racist tirade on board a Ryanair flight said that she feels ""very low"" after the incident.
 
 British police have launched an investigation after mobile phone footage emerged of a man calling 77-year-old Delsie Gayle an ""ugly black b******"" and a ""stupid ugly cow"" during the shocking encounter.
 
@@ -1501,8 +1501,8 @@ However, he described the incident as horrendous and said the captain should hav
 
 ""I want to see a full investigation,"" he said. ""This is an Irish-based company and we can't tolerate things like that happening on a plane. The captain is in charge at the time of the incident, but the airline needs to set down clear guidelines.""
 
-Fianna Fáil's transport spokesperson, Robert Troy, said it was beyond question that Ryanair should have handled the situation better. He said there were questions over whether aviation laws were fit for purpose to deal with such incidents. ""I will be seeking assurances from Ryanair management that proper protocols and training are now in place to ensure there is no repeat of this incident and that racism is appropriately dealt with any time it raises its ugly head,"" he said.",news,2018-10-23,2018-10-23T01:42:00Z,eng-4364609,0.0,eng,0.5960784554481506,01:42:00,'I feel very low': elderly victim of racist tirade on plane,976050841,https://www.independent.ie/world-news/europe/britain/i-feel-very-low-elderly-victim-of-racist-tirade-on-plane-37448292.html,independent.ie,news,Independent.ie,7,David,0
-31,"[{'uri': 'john_mulligan@independent.ie', 'name': 'John Mulligan', 'type': 'author', 'isAgency': False}]","But Ryanair's future growth may not come from where you'd expect.
+Fianna Fáil's transport spokesperson, Robert Troy, said it was beyond question that Ryanair should have handled the situation better. He said there were questions over whether aviation laws were fit for purpose to deal with such incidents. ""I will be seeking assurances from Ryanair management that proper protocols and training are now in place to ensure there is no repeat of this incident and that racism is appropriately dealt with any time it raises its ugly head,"" he said.",news,2018-10-23,2018-10-23T01:42:00Z,eng-4364609,0.0,eng,0.5960784554481506,01:42:00,'I feel very low': elderly victim of racist tirade on plane,976050841,https://www.independent.ie/world-news/europe/britain/i-feel-very-low-elderly-victim-of-racist-tirade-on-plane-37448292.html,independent.ie,news,Independent.ie,7,David,3
+31,31,"[{'uri': 'john_mulligan@independent.ie', 'name': 'John Mulligan', 'type': 'author', 'isAgency': False}]","But Ryanair's future growth may not come from where you'd expect.
 
 Ryanair chief commercial officer David O'Brien yesterday pointed to expansion possibilities in France and other established markets. The airline recently announced that two bases will open in France next year, with more to follow. Mr O'Brien said that Ryanair is likely to double its presence in France over the next 18 months. Next summer, more that 50pc of the airline's growth is targeted at its top three markets.
 
@@ -1519,7 +1519,7 @@ Meanwhile, Ryanair also expects to have a UK air operator's certificate (AOC) by
 ""I think that's a more sensible way for us to grow - to have multiple AOCs, a number of different brands within the business.""
 
 The CEO also expects to have signed union agreements in Germany and Belgium around Christmas time.",news,2018-10-23,2018-10-23T01:36:00Z,eng-4364609,0.0,eng,0.407843142747879,01:36:00,Ryanair betting on new Poland and Austria units to fuel growth,976048591,https://www.independent.ie/business/ryanair-betting-on-new-poland-and-austria-units-to-fuel-growth-37446551.html,independent.ie,news,Independent.ie,7,Asif,0
-32,"[{'uri': 'neil_murphy@mirror.co.uk', 'name': 'Neil Murphy', 'type': 'author', 'isAgency': False}]","The shocking incident happened on Ryanair flight FR015 from Barcelona to London Stansted on Friday
+32,32,"[{'uri': 'neil_murphy@mirror.co.uk', 'name': 'Neil Murphy', 'type': 'author', 'isAgency': False}]","The shocking incident happened on Ryanair flight FR015 from Barcelona to London Stansted on Friday
 
 Get daily news updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
@@ -1548,7 +1548,7 @@ The 77-year-old wept as she told ITV News that she has had no response from Ryan
 She said she still hadn't heard from the airline about the situation which took place on Friday.
 
 Read More Top news stories from Mirror Online",news,2018-10-23,2018-10-23T08:49:00Z,eng-4364609,0.0,eng,0.6470588445663452,08:49:00,Ryanair passenger who hurled racist abuse at woman is identified by Essex Police,976272988,https://www.mirror.co.uk/news/uk-news/breaking-ryanair-racist-identified-essex-13463337,mirror.co.uk,news,Mirror,7,Shivam,0
-33,"[{'uri': 'tom_embury_dennis@independent.ie', 'name': 'Tom Embury-Dennis', 'type': 'author', 'isAgency': False}]","A black disabled woman who was racially abused on a Ryanair flight to London has spoken about her ""shock"" over the incident.
+33,33,"[{'uri': 'tom_embury_dennis@independent.ie', 'name': 'Tom Embury-Dennis', 'type': 'author', 'isAgency': False}]","A black disabled woman who was racially abused on a Ryanair flight to London has spoken about her ""shock"" over the incident.
 
 Delsie Gayle was called an ""ugly black b******"" by a white man sitting next to her on a flight from Barcelona to London Stansted on Friday.
 
@@ -1593,7 +1593,7 @@ When contacted by Independent.ie, a spokesman for Ryanair said: ""We have report
 A spokesperson for Essex Police said: ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T20:48:00Z,eng-4364609,0.0,eng,0.7215686440467834,20:48:00,"'I feel very depressed about it, I can't sleep' - disabled woman (77) who was victim of racist rant on Ryanair flight",975902818,https://www.independent.ie/world-news/europe/britain/i-feel-very-depressed-about-it-i-cant-sleep-disabled-woman-77-who-was-victim-of-racist-rant-on-ryanair-flight-37447592.html,independent.ie,news,Independent.ie,7,Myriam,0
-34,"[{'uri': 'danya_bazaraa@mirror.co.uk', 'name': 'Danya Bazaraa', 'type': 'author', 'isAgency': False}]","Get daily news updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
+34,34,"[{'uri': 'danya_bazaraa@mirror.co.uk', 'name': 'Danya Bazaraa', 'type': 'author', 'isAgency': False}]","Get daily news updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
 A British pensioner who was racially abused by a passenger on a Ryanair flight has argued the airline would have removed her from the plane had the situation been reversed.
 
@@ -1676,7 +1676,7 @@ A spokeswoman for Essex Police said: ""This incident, which we were made aware o
 Ryanair told Mirror Online: ""We have reported this to the police in Essex and as this is now a police matter, we cannot comment further.""
 
 Read More Top news stories from Mirror Online",news,2018-10-22,2018-10-22T14:21:00Z,eng-4364609,0.0,eng,0.6823529601097107,14:21:00,Racially-abused Ryanair passenger hits out at how airline handled ordeal,975638642,https://www.mirror.co.uk/news/uk-news/racially-abused-ryanair-passenger-claims-13459051,mirror.co.uk,news,Mirror,7,Ana,0
-35,[],"Ryanair has reported a passenger to police after he launched a racist tirade against a woman in the seat next to him.
+35,35,[],"Ryanair has reported a passenger to police after he launched a racist tirade against a woman in the seat next to him.
 
 The man was filmed by a fellow passenger calling the elderly woman an ""ugly black bastard"", and shouting ""don't talk to me in a foreign language you stupid ugly cow"".
 
@@ -1711,7 +1711,7 @@ Fellow MSP politician Margaret Ferrier said: ""Just watched the shocking footage
 The budget airline tweeted on Sunday that it had seen the footage and reported the incident to Essex police.
 
 It added: ""As this is now a police matter, we cannot comment further.""",news,2018-10-21,2018-10-21T12:12:00Z,eng-4364609,0.0,eng,0.7607843279838562,12:12:00,Ryanair passenger reported to police after 'utterly disgusting' racist tirade against black woman,974829189,https://www.independent.ie/world-news/europe/britain/ryanair-passenger-reported-to-police-after-utterly-disgusting-racist-tirade-against-black-woman-37442590.html,independent.ie,news,Independent.ie,7,Hugo,0
-36,"[{'uri': 'julie_delahaye@mirror.co.uk', 'name': 'Julie Delahaye', 'type': 'author', 'isAgency': False}]","Get Weekly Travel updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
+36,36,"[{'uri': 'julie_delahaye@mirror.co.uk', 'name': 'Julie Delahaye', 'type': 'author', 'isAgency': False}]","Get Weekly Travel updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
 Ryanair has just given holidaymakers the perfect excuse to beat the Monday blues by slashing prices on one MILLION seats to £9.99 each way.
 
@@ -1733,8 +1733,8 @@ Ryanair's Robin Kiely said: ""We've launched a 'Million-Air' seat sale with one 
 
 ""This amazing offer will end at midnight (24:00hrs) on Tuesday (23 Oct), so customers should log on quickly and bag a bargain break.""
 
-Read More Travel Deals 2018",news,2018-10-22,2018-10-22T09:31:00Z,eng-4364609,0.0,eng,0.2000000029802322,09:31:00,Ryanair launches flash sale with a million seats for £9.99 but be very quick,975416959,https://www.mirror.co.uk/travel/cheap-flights/ryanair-slashes-prices-one-million-13457478,mirror.co.uk,news,Mirror,7,David,0
-37,"[{'uri': 'tom_horton@independent.ie', 'name': 'Tom Horton', 'type': 'author', 'isAgency': False}]","A man who filmed a racist incident on a Ryanair flight said he chose not to intervene so he could publicise what happened.
+Read More Travel Deals 2018",news,2018-10-22,2018-10-22T09:31:00Z,eng-4364609,0.0,eng,0.2000000029802322,09:31:00,Ryanair launches flash sale with a million seats for £9.99 but be very quick,975416959,https://www.mirror.co.uk/travel/cheap-flights/ryanair-slashes-prices-one-million-13457478,mirror.co.uk,news,Mirror,7,David,2
+37,37,"[{'uri': 'tom_horton@independent.ie', 'name': 'Tom Horton', 'type': 'author', 'isAgency': False}]","A man who filmed a racist incident on a Ryanair flight said he chose not to intervene so he could publicise what happened.
 
 David Lawrence, who filmed a man subjecting a woman to a tirade of racist abuse, said that in the age of social media ""visual is important"" and ""now the world knows"" what happened.
 
@@ -1767,7 +1767,7 @@ When contacted by the Irish Independent, a spokesman for Ryanair said: ""We have
 A spokeswoman for Essex police said on Sunday: ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T14:09:00Z,eng-4364609,0.0,eng,0.6313725709915161,14:09:00,Man who filmed racist rant on Ryanair flight does not regret it: 'Visual is important' ,975629840,https://www.independent.ie/irish-news/man-who-filmed-racist-rant-on-ryanair-flight-does-not-regret-it-visual-is-important-37445430.html,independent.ie,news,Independent.ie,7,Asif,0
-38,"[{'uri': 'kyle_o_sullivan@mirror.co.uk', 'name': ""Kyle O'Sullivan"", 'type': 'author', 'isAgency': False}]","Get celebs updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
+38,38,"[{'uri': 'kyle_o_sullivan@mirror.co.uk', 'name': ""Kyle O'Sullivan"", 'type': 'author', 'isAgency': False}]","Get celebs updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
 A Ryanair passenger who was racially abused on a flight broke down in tears as she watched footage of the racist tirade.
 
@@ -1822,7 +1822,7 @@ Ryanair told Mirror Online: ""We have reported this to the police in Essex and a
 Do you have a story to sell? Get in touch with us at webtv@trinitymirror.com or call us direct 0207 29 33033
 
 Read More Showbiz and TV editor's picks",news,2018-10-23,2018-10-23T10:23:00Z,eng-4364609,0.0,eng,0.6196078658103943,10:23:00,Ryanair abuse victim says police would have 'locked her up' in reverse situation,976344949,https://www.mirror.co.uk/tv/tv-news/ryanair-abuse-victim-claims-police-13464029,mirror.co.uk,news,Mirror,7,Shivam,0
-39,"[{'uri': 'neil_murphy@mirror.co.uk', 'name': 'Neil Murphy', 'type': 'author', 'isAgency': False}, {'uri': 'pippa_allen_kinross@mirror.co.uk', 'name': 'Pippa Allen-Kinross', 'type': 'author', 'isAgency': False}]","Get politics updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
+39,39,"[{'uri': 'neil_murphy@mirror.co.uk', 'name': 'Neil Murphy', 'type': 'author', 'isAgency': False}, {'uri': 'pippa_allen_kinross@mirror.co.uk', 'name': 'Pippa Allen-Kinross', 'type': 'author', 'isAgency': False}]","Get politics updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
 A Ryanair passenger who launched a racist tirade 'may get away with it' because the flight had not taken off, Labour's transport spokesman has claimed.
 
@@ -1887,7 +1887,7 @@ A spokeswoman for Essex Police said: ""This incident, which we were made aware o
 ""'We are working closely with Ryanair and the Spanish authorities on the investigation.""
 
 Read More Top news stories from Mirror Online",news,2018-10-22,2018-10-22T08:27:00Z,eng-4364609,0.0,eng,0.7607843279838562,08:27:00,Why Ryanair passenger could get away with his racist tirade at woman,975372588,https://www.mirror.co.uk/news/uk-news/racist-ryanair-passenger-could-away-13457031,mirror.co.uk,news,Mirror,7,Myriam,0
-40,"[{'uri': 'pippa_allen_kinross@mirror.co.uk', 'name': 'Pippa Allen-Kinross', 'type': 'author', 'isAgency': False}]","Get daily news updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
+40,40,"[{'uri': 'pippa_allen_kinross@mirror.co.uk', 'name': 'Pippa Allen-Kinross', 'type': 'author', 'isAgency': False}]","Get daily news updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
 Ryanair is facing growing criticism after one of their passengers unleashed a furious, racist tirade at an elderly disabled woman - before the victim was moved to another seat while the abuser was allowed to continue his journey.
 
@@ -1944,7 +1944,7 @@ Essex police said: ""Essex police takes prejudice-based crime seriously and we w
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""
 
 Read More Top news stories from Mirror Online",news,2018-10-21,2018-10-21T11:45:00Z,eng-4364609,0.0,eng,0.7450980544090271,11:45:00,Ryanair passenger unleashes racist tirade at woman - but SHE gets moved,974816305,https://www.mirror.co.uk/news/uk-news/ryanair-passenger-unleashes-racist-ugly-13453291,mirror.co.uk,news,Mirror,7,Ana,0
-41,"[{'uri': 'amy_wang@independent.ie', 'name': 'Amy Wang', 'type': 'author', 'isAgency': False}]","David Lawrence had just settled into seat 22F when he heard a commotion on the other side of the plane.
+41,41,"[{'uri': 'amy_wang@independent.ie', 'name': 'Amy Wang', 'type': 'author', 'isAgency': False}]","David Lawrence had just settled into seat 22F when he heard a commotion on the other side of the plane.
 
 A few rows behind him, a ruddy-faced man with grey hair and glasses was shouting at a black woman seated along the aisle.
 
@@ -2007,7 +2007,7 @@ His parents also were part of the 'Windrush generation', immigrants who moved fr
 ""The racism they suffered on a daily basis is historic. Our parents have learned over the years - because they have never received any kind of justice - they've just learned to live with it,"" Lawrence said.
 
 ""They kind of have this attitude, like, 'Well, what can we do?' sort of thing. The lady was like, 'this has happened so many times. I just want to go home'."" (© Washington Post Service)",news,2018-10-23,2018-10-23T01:42:00Z,eng-4364609,0.0,eng,0.6235294342041016,01:42:00,'This has happened so often ... they've learned to live with it',976050835,https://www.independent.ie/world-news/europe/britain/this-has-happened-so-often-theyve-learned-to-live-with-it-37448305.html,independent.ie,news,Independent.ie,7,Hugo,0
-42,"[{'uri': 'ravender_sembhy@mirror.co.uk', 'name': 'Ravender Sembhy', 'type': 'author', 'isAgency': False}]","Disruptions also hit customer confidence in the company, with passengers making fewer bookings for October school half-term and Christmas
+42,42,"[{'uri': 'ravender_sembhy@mirror.co.uk', 'name': 'Ravender Sembhy', 'type': 'author', 'isAgency': False}]","Disruptions also hit customer confidence in the company, with passengers making fewer bookings for October school half-term and Christmas
 
 Get money updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
@@ -2037,8 +2037,8 @@ The airline's fuel bill is expected to come in about 460 million euros higher ye
 
 Ryanair said that its profit guidance remains heavily dependent on air fares not declining further, and the absence of unforeseen strikes and negative Brexit developments.
 
-""The risk of a hard (""no-deal"") Brexit in March 2019 is rising. While we hope that a 21-month transition agreement from March 2019 to December 2020 will be implemented (and extended), we remain concerned that the time to complete such an agreement is shortening,"" O'Leary added.",news,2018-10-22,2018-10-22T07:57:00Z,eng-4364609,0.0,eng,0.3725490272045135,07:57:00,Ryanair profits fall after strikes spark thousands of compensation payouts,975352556,https://www.mirror.co.uk/money/ryanair-profits-fall-after-strike-13457051,mirror.co.uk,news,Mirror,7,David,0
-43,"[{'uri': 'laura_lynott@independent.ie', 'name': 'Laura Lynott', 'type': 'author', 'isAgency': False}]","Ryanair has sparked outrage after failing to remove a passenger from a plane after he launched a racist tirade against the woman in the seat next to him.
+""The risk of a hard (""no-deal"") Brexit in March 2019 is rising. While we hope that a 21-month transition agreement from March 2019 to December 2020 will be implemented (and extended), we remain concerned that the time to complete such an agreement is shortening,"" O'Leary added.",news,2018-10-22,2018-10-22T07:57:00Z,eng-4364609,0.0,eng,0.3725490272045135,07:57:00,Ryanair profits fall after strikes spark thousands of compensation payouts,975352556,https://www.mirror.co.uk/money/ryanair-profits-fall-after-strike-13457051,mirror.co.uk,news,Mirror,7,David,4
+43,43,"[{'uri': 'laura_lynott@independent.ie', 'name': 'Laura Lynott', 'type': 'author', 'isAgency': False}]","Ryanair has sparked outrage after failing to remove a passenger from a plane after he launched a racist tirade against the woman in the seat next to him.
 
 The man was filmed by a fellow passenger calling the elderly woman an ""ugly black b******"", and shouting ""don't talk to me in a foreign language, you stupid, ugly cow"".
 
@@ -2075,7 +2075,7 @@ News of the incident was retweeted 18,000 times, prompting widespread condemnati
 When contacted by the Irish Independent, a spokesman for Ryanair said: ""We have reported this to the police in Essex and as this is now a police matter, we cannot comment further.""
 
 A spokeswoman for Essex Police said: ""This incident...is believed to have taken place on a plane at Barcelona Airport... We are working closely with Ryanair and the Spanish authorities.""",news,2018-10-22,2018-10-22T05:40:00Z,eng-4364609,0.0,eng,0.7647058963775635,05:40:00,Watch: Anger at Ryanair for not kicking passenger off flight after racist rant at elderly woman,975272450,https://www.independent.ie/irish-news/watch-anger-at-ryanair-for-not-kicking-passenger-off-flight-after-racist-rant-at-elderly-woman-37444026.html,independent.ie,news,Independent.ie,7,Asif,0
-44,"[{'uri': 'chitra_ramaswamy@theguardian.com', 'name': 'Chitra Ramaswamy', 'type': 'author', 'isAgency': False}]","For those who remain convinced that racism doesn't exist, or prefer to luxuriate in the simple white pleasure of colour-blindness (towards the experiences of actual people of colour rather than our skin tone), Wide Awoke refers you to video footage of a white man on a Ryanair flight yelling racist abuse at a black woman. Then keeping his seat while she was asked if she wanted to move. Ryanair reportedly said that the cabin crew were not aware of the racist slurs. This appalling chain of events, which will not be shocking to anyone who has been on the receiving end of racist abuse, tells us everything we need to know about how racism is routinely handled in our country.
+44,44,"[{'uri': 'chitra_ramaswamy@theguardian.com', 'name': 'Chitra Ramaswamy', 'type': 'author', 'isAgency': False}]","For those who remain convinced that racism doesn't exist, or prefer to luxuriate in the simple white pleasure of colour-blindness (towards the experiences of actual people of colour rather than our skin tone), Wide Awoke refers you to video footage of a white man on a Ryanair flight yelling racist abuse at a black woman. Then keeping his seat while she was asked if she wanted to move. Ryanair reportedly said that the cabin crew were not aware of the racist slurs. This appalling chain of events, which will not be shocking to anyone who has been on the receiving end of racist abuse, tells us everything we need to know about how racism is routinely handled in our country.
 
 The film shows the man threatening to ""push"" the woman to another seat. The woman, a 77-year-old member of the Windrush generation who is returning from a holiday with her daughter to mark the death of her husband, has arthritis. Apparently she takes too long to move. The man calls her an ""ugly black bastard"" and shouts ""don't talk to me in a foreign language"" when she replies in English. Eventually, a flight attendant intervenes. A passenger confronts the man.
 
@@ -2084,12 +2084,12 @@ The outcome? The woman is moved. The man remains locked in his white privilege, 
 When I watch this footage, I begin to sweat. My heart hammers. I freeze while violent emotional weather batters my inner landscape. I find it impossible to speak. Though I am not someone who struggles to stick up for myself, every time I have been hit by the sucker punch of racism, whether from a well-meant comment at a dinner party or abuse hurled from a passing car, I have been powerless to defend myself. I am literally gagged by shame. And whenever I have experienced abuse in public, no one has intervened. Not one person. Racism tends to be met with silence, embarrassment, or, worse, denial.
 
 We are living in the midst of a surge in hate crime and an establishment that seems hell-bent on legitimising far-right, racist views, whether through a newspaper column by a former foreign secretary inciting Islamophobia or the invitation of Steve Bannon to a conference co-hosted by our public service broadcaster. How we respond matters more than ever. We can all do more to combat freshly emboldened racism but some can do more than others because some bystanders, such as white people and men, possess more power and thus more responsibility. So when people of colour experience racism, we need white allies to stand up and fight. Not just for us but because racism, we appear to have forgotten, must be abhorrent to us all.",news,2018-10-22,2018-10-22T13:24:00Z,eng-4364609,0.0,eng,0.4509803950786591,13:24:00,How we respond to racist hatred matters more than ever | Chitra Ramaswamy,975594200,http://www.theguardian.com/lifeandstyle/2018/oct/22/i-have-been-racially-abused-no-one-intervened-ryanair-story-shows-why-they-should,theguardian.com,news,The Guardian,6,Shivam,0
-45,[],"A woman who was subjected to a racist tirade on a Ryanair flight has said the incident left her stunned and depressed.
+45,45,[],"A woman who was subjected to a racist tirade on a Ryanair flight has said the incident left her stunned and depressed.
 
 Delsie Gayle was the target of a string of abuse from a fellow passenger on flight FR015 from Barcelona to London Stansted. The man shouted at her, telling her to move seats and calling her an 'ugly black bastard'.
 
 Describing her shock, Gayle told ITV News: 'I feel very low. He paid a fare to go on holiday, I've paid mine, so why does he abuse me for that due to the colour of my skin?'",news,2018-10-22,2018-10-22T19:19:00Z,eng-4364609,0.0,eng,0.4745098054409027,19:19:00,'Shocked and depressed': Delsie Gayle speaks about racist rant on Ryanair flight - video,975849302,http://www.theguardian.com/business/video/2018/oct/22/shocked-and-depressed-delsie-gayle-speaks-out-about-racist-attack-on-ryanair-flight-video,theguardian.com,news,The Guardian,6,Myriam,0
-46,"[{'uri': 'tom_powell@standard.co.uk', 'name': 'Tom Powell', 'type': 'author', 'isAgency': False}]","I would like to receive lunchtime headlines Monday - Friday plus breaking news alerts by email
+46,46,"[{'uri': 'tom_powell@standard.co.uk', 'name': 'Tom Powell', 'type': 'author', 'isAgency': False}]","I would like to receive lunchtime headlines Monday - Friday plus breaking news alerts by email
 
 A Ryanair passenger who launched a racist tirade at a fellow passenger may ""get away with it"" due to the airline wanting to get the plane off the ground, a shadow transport minister said.
 
@@ -2130,7 +2130,7 @@ A spokeswoman for Essex police said: ""This incident, which we were made aware o
 ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T06:18:00Z,eng-4364609,0.0,eng,0.7529411911964417,06:18:00,"Ryanair passenger in racist tirade 'may get away with it', MP warns",975292345,https://www.standard.co.uk/news/uk/ryanair-passenger-in-racist-tirade-may-get-away-with-it-due-to-aviation-laws-mp-warns-a3967601.html,standard.co.uk,news,Evening Standard,6,Ana,0
-47,"[{'uri': 'joanna_bourke@standard.co.uk', 'name': 'Joanna Bourke', 'type': 'author', 'isAgency': False}]","Struggling Ryanair on Monday warned of turbulent times ahead for the aviation industry, forecasting that a number of airlines will collapse as it capped off a miserable summer by posting lower profits.
+47,47,"[{'uri': 'joanna_bourke@standard.co.uk', 'name': 'Joanna Bourke', 'type': 'author', 'isAgency': False}]","Struggling Ryanair on Monday warned of turbulent times ahead for the aviation industry, forecasting that a number of airlines will collapse as it capped off a miserable summer by posting lower profits.
 
 The Dublin-based carrier was hurt in the six months to September 30 by repeated staff strikes which led to flight cancellations. That, coupled with higher fuel costs, contributed to profits falling 7% to €1.2 billion.
 
@@ -2159,7 +2159,7 @@ The shares edged up 0.52c higher to €11.96.
 Ryanair's update today comes days after the airline came under fire for its handling of an incident in which a male passenger allegedly racially abused an elderly black woman aboard one of its Stansted-bound flights last week.
 
 Ryanair said: ""We have reported this to the police in Essex and as this is now a police matter, we cannot comment further.""",news,2018-10-22,2018-10-22T10:41:00Z,eng-4364609,0.0,eng,0.4745098054409027,10:41:00,Ryanair reveals lower profits and warns more airlines will fail,975469953,https://www.standard.co.uk/business/ryanair-reveals-lower-profits-and-warns-more-airlines-will-fail-a3967951.html,standard.co.uk,news,Evening Standard,6,Hugo,0
-48,"[{'uri': 'alexandra_topping@theguardian.com', 'name': 'Alexandra Topping', 'type': 'author', 'isAgency': False}]","Ryanair has referred a racist incident on one of its flights to Essex police, after facing criticism that it did little to prevent a male passenger inflicting a tirade of racist abuse on a 77-year-old woman.
+48,48,"[{'uri': 'alexandra_topping@theguardian.com', 'name': 'Alexandra Topping', 'type': 'author', 'isAgency': False}]","Ryanair has referred a racist incident on one of its flights to Essex police, after facing criticism that it did little to prevent a male passenger inflicting a tirade of racist abuse on a 77-year-old woman.
 
 The airline apparently did not remove the passenger from the flight to Barcelona, instead moving the woman from her seat.
 
@@ -2197,8 +2197,8 @@ The budget airline tweeted on Sunday that it had seen the footage and reported t
 
 A spokeswoman for Essex police said: ""This incident, which we were made aware of this morning, is believed to have taken place on a plane at Barcelona Airport. Essex police takes prejudice-based crime seriously and we want all incidents to be reported.
 
-""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-21,2018-10-21T14:31:00Z,eng-4364609,0.0,eng,0.7764706015586853,14:31:00,Ryanair refers racist incident to police amid criticism over inaction,974898206,http://www.theguardian.com/business/2018/oct/21/ryanair-refers-racist-incident-to-police-amid-criticism-over-inaction,theguardian.com,news,The Guardian,6,David,0
-49,"[{'uri': 'olivia_tobin@standard.co.uk', 'name': 'Olivia Tobin', 'type': 'author', 'isAgency': False}]","I would like to receive lunchtime headlines Monday - Friday plus breaking news alerts by email
+""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-21,2018-10-21T14:31:00Z,eng-4364609,0.0,eng,0.7764706015586853,14:31:00,Ryanair refers racist incident to police amid criticism over inaction,974898206,http://www.theguardian.com/business/2018/oct/21/ryanair-refers-racist-incident-to-police-amid-criticism-over-inaction,theguardian.com,news,The Guardian,6,David,2
+49,49,"[{'uri': 'olivia_tobin@standard.co.uk', 'name': 'Olivia Tobin', 'type': 'author', 'isAgency': False}]","I would like to receive lunchtime headlines Monday - Friday plus breaking news alerts by email
 
 A pensioner who fell victim to vile racial abuse while on a Ryanair flight has tearfully said if the situation had been reversed, she believes passengers would have rounded on her and called police.
 
@@ -2231,7 +2231,7 @@ It added: ""As this is now a police matter, we cannot comment further.""
 A spokeswoman for Essex police said on Sunday: ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T16:32:00Z,eng-4364609,0.0,eng,0.6000000238418579,16:32:00,Victim of racist rant on Ryanair flight tearfully relives her ordeal,975739259,https://www.standard.co.uk/news/uk/tearful-victim-of-ryanair-passengers-racist-rant-if-it-was-the-other-way-round-they-would-have-a3968386.html,standard.co.uk,news,Evening Standard,6,Asif,0
-50,"[{'uri': 'julia_kollewe@theguardian.com', 'name': 'Julia Kollewe', 'type': 'author', 'isAgency': False}]","Fuel cost and strikes hit budget carrier and Michael O'Leary expects more airlines to go bust
+50,50,"[{'uri': 'julia_kollewe@theguardian.com', 'name': 'Julia Kollewe', 'type': 'author', 'isAgency': False}]","Fuel cost and strikes hit budget carrier and Michael O'Leary expects more airlines to go bust
 
 The Ryanair chief executive, Michael O'Leary, said he expected more airlines to go bust as the budget carrier posted a 7% drop in profits because of rising fuel prices and strikes hitting costs and bookings.
 
@@ -2254,7 +2254,7 @@ Neil Wilson, the chief market analyst at Markets.com, said: ""Airlines are gener
 Ryanair is facing calls for a boycott on Twitter after a racist incident on one of its flights, which it has referred to Essex police.
 
 The airline faces criticism that it did little to prevent a male passenger inflicting a tirade of racist abuse on a 77-year-old woman. Ryanair apparently did not remove the passenger from the flight from Barcelona, instead moving the woman from her seat.",news,2018-10-22,2018-10-22T08:21:00Z,eng-4364609,0.0,eng,0.4823529422283173,08:21:00,Ryanair profits fall as CEO predicts grim winter for aviation,975368623,http://www.theguardian.com/business/2018/oct/22/ryanair-profits-fall-as-ceo-predicts-grim-winter-for-aviation-michael-o-leary,theguardian.com,news,The Guardian,6,Shivam,0
-51,"[{'uri': 'caroline_davies@theguardian.com', 'name': 'Caroline Davies', 'type': 'author', 'isAgency': False}]","David Lawrence filmed verbal abuse to prove that such incidents take place
+51,51,"[{'uri': 'caroline_davies@theguardian.com', 'name': 'Caroline Davies', 'type': 'author', 'isAgency': False}]","David Lawrence filmed verbal abuse to prove that such incidents take place
 
 An airline passenger who filmed a racist incident aboard a Ryanair flight and posted it online said he chose to publicise it to show the world what had happened.
 
@@ -2289,7 +2289,7 @@ Theresa May's official spokesman declined to comment on the case, but told repor
 ""The prime minister has always been clear that racial abuse is abhorrent. In relation to this particular case, there's obviously an investigation being conducted by Essex police and it's right that I don't comment specifically on that.""
 
 A spokeswoman for Essex police said on Sunday: ""Essex police takes prejudice-based crime seriously and we want all incidents to be reported. We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T14:50:00Z,eng-4364609,0.0,eng,0.7019608020782471,14:50:00,Passenger filmed racist tirade on Ryanair flight 'to show world',975660922,http://www.theguardian.com/business/2018/oct/22/passenger-filmed-racist-tirade-on-ryanair-flight-to-show-world,theguardian.com,news,The Guardian,6,Myriam,0
-52,"[{'uri': 'sarah_marsh@theguardian.com', 'name': 'Sarah Marsh', 'type': 'author', 'isAgency': False}]","Essex police have passed man's details to Spanish authorities who are investigating
+52,52,"[{'uri': 'sarah_marsh@theguardian.com', 'name': 'Sarah Marsh', 'type': 'author', 'isAgency': False}]","Essex police have passed man's details to Spanish authorities who are investigating
 
 Police say they have identified a man who was filmed racially abusing an elderly woman on a Ryanair flight.
 
@@ -2316,7 +2316,7 @@ The shadow transport minister, Karl Turner, said Ryanair's failure to immediatel
 He told Radio 4's World at One that because Ryanair was registered in Dublin and the plane was on the ground in Spain, UK law did not apply. There was no extradition arrangement for an offence of this nature, he said, so there could be no charges unless the man handed himself over to the Spanish authorities. ""I doubt whether he's going to do that,"" Turner said.
 
 On Sunday Ryanair tweeted that as it was now a police matter, the airline could not comment further.",news,2018-10-23,2018-10-23T10:41:00Z,eng-4364609,0.0,eng,0.6705882549285889,10:41:00,"Man in Ryanair racism incident identified, police say",976358416,http://www.theguardian.com/uk-news/2018/oct/23/man-in-ryanair-racism-incident-identified-police-say,theguardian.com,news,The Guardian,6,Ana,0
-53,"[{'uri': 'nick_charity@standard.co.uk', 'name': 'Nick Charity', 'type': 'author', 'isAgency': False}]","Essex Police says it has identified a man who was filmed racially abusing a woman on a Ryanair flight.
+53,53,"[{'uri': 'nick_charity@standard.co.uk', 'name': 'Nick Charity', 'type': 'author', 'isAgency': False}]","Essex Police says it has identified a man who was filmed racially abusing a woman on a Ryanair flight.
 
 The information has been passed on to Spanish authorities who are leading on the investigation, the force said.
 
@@ -2327,7 +2327,7 @@ The victim was subjected to a ""tirade of abuse"", passengers said, while the je
 A spokeswoman for Essex Police said: ""We have worked to identify both parties involved in this incident and passed this information to the Spanish authorities, who are leading on this investigation.
 
 ""Our officers will continue to provide assistance where necessary throughout the course of this case.""",news,2018-10-23,2018-10-23T08:53:00Z,eng-4364609,0.0,eng,0.4431372582912445,08:53:00,Ryanair racism suspect identified as probe passed to Spanish police,976276030,https://www.standard.co.uk/news/crime/ryanair-racist-passenger-video-essex-police-pass-on-probe-to-spanish-authorities-after-identifying-a3968821.html,standard.co.uk,news,Evening Standard,6,Hugo,0
-54,"[{'uri': 'ella_wills@standard.co.uk', 'name': 'Ella Wills', 'type': 'author', 'isAgency': False}]","I would like to receive lunchtime headlines Monday - Friday plus breaking news alerts by email
+54,54,"[{'uri': 'ella_wills@standard.co.uk', 'name': 'Ella Wills', 'type': 'author', 'isAgency': False}]","I would like to receive lunchtime headlines Monday - Friday plus breaking news alerts by email
 
 Shocking footage has emerged of the moment a passenger on a Ryanair launched a racist tirade at a 77-year-old woman sitting next to him - forcing her to move.
 
@@ -2375,8 +2375,8 @@ Fellow MSP politician Margaret Ferrier said: ""Just watched the shocking footage
 
 The budget airline tweeted on Sunday that it had seen the footage and reported the incident to Essex police.
 
-It added: ""As this is now a police matter, we cannot comment further.""",news,2018-10-21,2018-10-21T12:06:00Z,eng-4364609,0.0,eng,0.7882353067398071,12:06:00,Ryanair passenger launches racist tirade at woman sitting next to him,974826114,https://www.standard.co.uk/news/uk/ryanair-faces-backlash-after-shocking-footage-shows-passenger-launching-racist-tirade-at-woman-a3967426.html,standard.co.uk,news,Evening Standard,6,David,0
-55,"[{'uri': 'sophie_williams@standard.co.uk', 'name': 'Sophie Williams', 'type': 'author', 'isAgency': False}]","I would like to receive lunchtime headlines Monday - Friday plus breaking news alerts by email
+It added: ""As this is now a police matter, we cannot comment further.""",news,2018-10-21,2018-10-21T12:06:00Z,eng-4364609,0.0,eng,0.7882353067398071,12:06:00,Ryanair passenger launches racist tirade at woman sitting next to him,974826114,https://www.standard.co.uk/news/uk/ryanair-faces-backlash-after-shocking-footage-shows-passenger-launching-racist-tirade-at-woman-a3967426.html,standard.co.uk,news,Evening Standard,6,David,2
+55,55,"[{'uri': 'sophie_williams@standard.co.uk', 'name': 'Sophie Williams', 'type': 'author', 'isAgency': False}]","I would like to receive lunchtime headlines Monday - Friday plus breaking news alerts by email
 
 A man who filmed a racist incident on board a Ryanair flight has defended his actions claiming that he filmed the incident to let the world know what happened.
 
@@ -2411,7 +2411,7 @@ It added: ""As this is now a police matter, we cannot comment further.""
 A spokeswoman for Essex police said on Sunday: ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T10:53:00Z,eng-4364609,0.0,eng,0.6078431606292725,10:53:00,Man defends filming racist Ryanair rant,975479043,https://www.standard.co.uk/news/uk/man-defends-filming-racist-ryanair-rant-a3967896.html,standard.co.uk,news,Evening Standard,6,Asif,0
-56,[],"DUBLIN (Reuters) - Ryanair reported a 7 percent fall in profit during its key April-September season on Monday, citing higher fuel costs and damage to bookings caused by strikes, and said European short-haul airfares would remain soft this winter.
+56,56,[],"DUBLIN (Reuters) - Ryanair reported a 7 percent fall in profit during its key April-September season on Monday, citing higher fuel costs and damage to bookings caused by strikes, and said European short-haul airfares would remain soft this winter.
 
 Ryanair three weeks ago cut its forecast for full-year profit by 12 percent and warned that worse may follow if a recent wave of pilot and cabin crew strikes across Europe continue to hit traffic and bookings.
 
@@ -2432,7 +2432,7 @@ But he said Ryanair's cost advantage over rivals is widening and ""over the medi
 (Reporting by Conor Humphries; Editing by Amrutha Gayathri)
 
 By Conor Humphries",news,2018-10-22,2018-10-22T05:17:00Z,eng-4364609,0.0,eng,0.3529411852359772,05:17:00,Ryanair : warns fares to remain soft as summer profit falls 7 percent | MarketScreener,975262088,http://www.marketscreener.com//RYANAIR-HOLDINGS-PLC-1412410/news/Ryanair-warns-fares-to-remain-soft-as-summer-profit-falls-7-percent-27460074/,marketscreener.com,news,marketscreener.com,5,Shivam,0
-57,[],"DUBLIN (Reuters) - Ryanair said on Monday it hopes to conclude its remaining labour issues by Christmas, signalling a possible end to damaging flight disruptions which have dragged on its shares.
+57,57,[],"DUBLIN (Reuters) - Ryanair said on Monday it hopes to conclude its remaining labour issues by Christmas, signalling a possible end to damaging flight disruptions which have dragged on its shares.
 
 The Irish low-cost carrier, Europe's largest, also said it may have to cut its capacity further this winter due to high oil costs and intense competition, although these factors were helping it to resolve its difficult industrial relations.
 
@@ -2465,7 +2465,7 @@ A poll of more than 10 analysts by Ryanair before the results found an average f
 (Reporting by Conor Humphries; Editing by Amrutha Gayathri and Alexander Smith)
 
 By Conor Humphries",news,2018-10-22,2018-10-22T08:05:00Z,eng-4364609,0.0,eng,0.3803921639919281,08:05:00,Ryanair : forecasts end to union troubles by Christmas | MarketScreener,975357594,http://www.marketscreener.com//RYANAIR-HOLDINGS-PLC-1412410/news/Ryanair-forecasts-end-to-union-troubles-by-Christmas-27460074/,marketscreener.com,news,marketscreener.com,5,Myriam,0
-58,[],"DUBLIN (Reuters) - Ryanair hopes to reach deals with all of its major unions by Christmas, its chief executive said on Monday, in a sign an end may be in sight to disruptions which have hit its profit and shares.
+58,58,[],"DUBLIN (Reuters) - Ryanair hopes to reach deals with all of its major unions by Christmas, its chief executive said on Monday, in a sign an end may be in sight to disruptions which have hit its profit and shares.
 
 The Irish low-cost carrier, Europe's largest, on Monday reported a 7 percent fall in profits in the six months to Sept. 30 on high fuel costs and intense competition.
 
@@ -2504,7 +2504,7 @@ Ryanair, which makes most of its profit in the summer, reported a profit of 1.2 
 (Additional reporting by Ilona Wissenbach and Daphne Psaledakis; Editing by Amrutha Gayathri and Alexander Smith)
 
 By Conor Humphries",news,2018-10-22,2018-10-22T11:47:00Z,eng-4364609,0.0,eng,0.4039215743541718,11:47:00,Ryanair : hopes to land deals with major unions by Christmas | MarketScreener,975519383,http://www.marketscreener.com//RYANAIR-HOLDINGS-PLC-1412410/news/Ryanair-hopes-to-land-deals-with-major-unions-by-Christmas-27460074/,marketscreener.com,news,marketscreener.com,5,Ana,0
-59,"[{'uri': 'samantha_libreri@rte.ie', 'name': 'Samantha Libreri', 'type': 'author', 'isAgency': False}]","Ryanair has been criticised for how it dealt with an alleged racist incident on one of its flights.
+59,59,"[{'uri': 'samantha_libreri@rte.ie', 'name': 'Samantha Libreri', 'type': 'author', 'isAgency': False}]","Ryanair has been criticised for how it dealt with an alleged racist incident on one of its flights.
 
 Footage of a man making racist remarks to an elderly black woman on a flight from Barcelona to London on Friday went viral over the weekend.
 
@@ -2525,7 +2525,7 @@ Pippa Woolnaugh said staff also need the training to deal with these incidents w
 She said the fact that fellow passengers came to the defence of the women subjected to the abuse shows that the majority of people are not racist.
 
 Criticism of Ryanairs handling of the incident comes as the airline published results today showing falling profits in what has been a turbulent year for the low cost carrier.",news,2018-10-22,2018-10-22T17:42:00Z,eng-4364609,0.0,eng,0.5098039507865906,17:42:00,Ryanair criticised over handling of incident on flight,975788672,https://www.rte.ie/news/2018/1022/1005961-ryanair/,rte.ie,news,RTE.ie,5,Hugo,0
-60,"[{'uri': 'fergal_o@rte.ie', 'name': 'Fergal O', 'type': 'author', 'isAgency': False}]","A number of Ryanair's Portugal-based staff have been ordered to attend a meeting in Dublin later this week to face potential disciplinary action.
+60,60,"[{'uri': 'fergal_o@rte.ie', 'name': 'Fergal O', 'type': 'author', 'isAgency': False}]","A number of Ryanair's Portugal-based staff have been ordered to attend a meeting in Dublin later this week to face potential disciplinary action.
 
 It follows the publication of a photo on social media, showing crew members asleep on a floor at Malaga Airport in Spain, which the airline says is fake.
 
@@ -2553,8 +2553,8 @@ He added: ""What we always claimed, is that Ryanair only gave the floor for peop
 
 Mr Gandra said he is concerned the staff involved could face disciplinary action.
 
-Ryanair was contacted for a statement about this coming week's meetings, but the airline has made no comment.",news,2018-10-21,2018-10-21T20:06:00Z,eng-4364609,0.0,eng,0.3607843220233917,20:06:00,Ryanair staff face disciplinary meeting over photo,975055349,https://www.rte.ie/news/2018/1021/1005750-ryanair/,rte.ie,news,RTE.ie,5,David,0
-61,[],"DUBLIN (Reuters) - Ryanair hopes to reach deals with all of its major unions by Christmas, in a sign an end may be in sight to the damaging flight disruptions which have dragged on its shares.
+Ryanair was contacted for a statement about this coming week's meetings, but the airline has made no comment.",news,2018-10-21,2018-10-21T20:06:00Z,eng-4364609,0.0,eng,0.3607843220233917,20:06:00,Ryanair staff face disciplinary meeting over photo,975055349,https://www.rte.ie/news/2018/1021/1005750-ryanair/,rte.ie,news,RTE.ie,5,David,4
+61,61,[],"DUBLIN (Reuters) - Ryanair hopes to reach deals with all of its major unions by Christmas, in a sign an end may be in sight to the damaging flight disruptions which have dragged on its shares.
 
 The Irish low-cost carrier, Europe's largest, on Monday reported a 7 percent fall in profits due in part to high fuel costs and intense competition, but it said these factors were helping it resolve its industrial relations troubles.
 
@@ -2589,7 +2589,7 @@ But Ryanair would have to follow up on union recognition agreements with more co
 (Reporting by Conor Humphries; Editing by Amrutha Gayathri and Alexander Smith)
 
 By Conor Humphries",news,2018-10-22,2018-10-22T09:53:00Z,eng-4364609,0.0,eng,0.364705890417099,09:53:00,Ryanair : hopeful of deals with last major unions by Christmas | MarketScreener,975433561,http://www.marketscreener.com//RYANAIR-HOLDINGS-PLC-1412410/news/Ryanair-hopeful-of-deals-with-last-major-unions-by-Christmas-27460074/,marketscreener.com,news,marketscreener.com,5,Asif,0
-62,[],"Ryanair has today reported a 7% fall in profit during its key April-September season, citing higher fuel costs and damage to bookings caused by strikes.
+62,62,[],"Ryanair has today reported a 7% fall in profit during its key April-September season, citing higher fuel costs and damage to bookings caused by strikes.
 
 The airline also said that European short-haul airfares would remain soft this winter.
 
@@ -2622,7 +2622,7 @@ Michael O'Leary also said that the risk of a hard 'no-deal' Brexit in March 2019
 ""In the event of a hard Brexit our UK shareholders will be treated as non-EU. In such an event the board will restrict the voting rights of all non-EU shareholders (and confine them to selling shares only to EU nationals) to ensure that Ryanair remains majority owned and controlled by EU shareholders,"" he said.
 
 ""We have applied for a UK AOC to protect our three domestic UK routes and are on track to receive it before the end of 2018,"" he added.",news,2018-10-22,2018-10-22T09:07:00Z,eng-4364609,0.0,eng,0.3960784375667572,09:07:00,Ryanair warns fares to remain soft as H1 profits dip 7%,975399409,https://www.rte.ie/news/business/2018/1022/1005792-ryanair-h1-results/,rte.ie,news,RTE.ie,5,Shivam,0
-63,[],"Ryanair has reported an alleged racist incident on board one of its planes to police in the UK.
+63,63,[],"Ryanair has reported an alleged racist incident on board one of its planes to police in the UK.
 
 Footage purporting to show a man shouting racial slurs at a fellow passenger was posted to social media.
 
@@ -2657,7 +2657,7 @@ The woman said that when she had complained to cabin crew they denied hearing an
 News of the incident was retweeted 18,000 times after a user with the handle @StanceGrounded uploaded Mr Laurence's clip, prompting widespread condemnation of Ryanair for failing to act swiftly.
 
 Ryanair said in a tweet today that it had seen the footage and reported the incident to Essex police.",news,2018-10-21,2018-10-21T12:09:00Z,eng-4364609,0.0,eng,0.6980392336845398,12:09:00,Investigation into racist incident on Ryanair flight,974827418,https://www.rte.ie/news/world/2018/1021/1005663-ryanair-incident/,rte.ie,news,RTE.ie,5,Myriam,0
-64,[],"Ryanair, Europe's No 1 airline, today (22 Oct) launched a massive one day 'Million-Air' seat sale with over 1 million seats on sale for just €9.99 across its European network for travel from November to March, ensuring even more savings for its customers.
+64,64,[],"Ryanair, Europe's No 1 airline, today (22 Oct) launched a massive one day 'Million-Air' seat sale with over 1 million seats on sale for just €9.99 across its European network for travel from November to March, ensuring even more savings for its customers.
 
 These incredible €9.99 fares are available for booking from now until midnight (24:00hrs) Tuesday (23 Oct) and can only be found on the Ryanair.com website.
 
@@ -2676,7 +2676,7 @@ Original document Permalink
 Disclaimer
 
 Ryanair Holdings plc published this content on 22 October 2018 and is solely responsible for the information contained herein. Distributed by Public, unedited and unaltered, on 22 October 2018 08:12:04 UTC",news,2018-10-22,2018-10-22T08:34:00Z,eng-4364609,0.0,eng,0.2980392277240753,08:34:00,"Ryanair : Launches Massive 24 Hour ""Million-Air"" Sale 1 Million Seats For Just 9.99 | MarketScreener",975377013,http://www.marketscreener.com//RYANAIR-HOLDINGS-PLC-24735928/news/Ryanair-Launches-Massive-24-Hour-ldquo-Million-Air-rdquo-Sale-1-Million-Seats-For-Just-9-99-27460932/,marketscreener.com,news,marketscreener.com,5,Ana,0
-65,[],"UK police say that a man who was reportedly filmed racially abusing an elderly woman on a Ryanair flight has been identified.
+65,65,[],"UK police say that a man who was reportedly filmed racially abusing an elderly woman on a Ryanair flight has been identified.
 
 Delsie Gayle, 77, will now be able to give police a statement about what happened, her daughter said.
 
@@ -2705,7 +2705,7 @@ Mrs Gayle's daughter had arranged the trip in an attempt to cheer her mother up 
 She said: ""It's coming up to a year of my dad's death, so I thought I'd take my mum away just for a little mini-break.
 
 ""Mum was already feeling low because of Dad, and now with Ryanair it's made her feel more depressed.""",news,2018-10-23,2018-10-23T18:25:00Z,eng-4364609,0.0,eng,0.5764706134796143,18:25:00,Man in reported racist incident on flight identified,976721577,https://www.rte.ie/news/world/2018/1023/1006200-ryanair/,rte.ie,news,RTE.ie,5,Hugo,0
-66,"[{'uri': 'nadine_white@huffingtonpost.co.uk', 'name': 'Nadine White', 'type': 'author', 'isAgency': False}]","The Transport Secretary has described the incident as ""unacceptable"".
+66,66,"[{'uri': 'nadine_white@huffingtonpost.co.uk', 'name': 'Nadine White', 'type': 'author', 'isAgency': False}]","The Transport Secretary has described the incident as ""unacceptable"".
 
 The family of an elderly black woman who was racially abused on a Ryanair flight have told HuffPost UK they are ""surprised, disgusted and hurt"" that they have still had no contact from the airline, despite the Transport Secretary suggesting what occurred on board was a crime.
 
@@ -2725,8 +2725,8 @@ Under article 7 of Ryanair's terms and conditions, the airline may refuse carria
 
 Ryanair tweeted on Sunday morning: ""We are aware of this video and have reported this matter to Essex Police.""
 
-A spokesperson today told HuffPost UK: ""As this is now a police matter, we cannot comment further.""",news,2018-10-22,2018-10-22T09:56:00Z,eng-4364609,0.0,eng,0.5254902243614197,09:56:00,Exclusive: The Elderly Woman Racially Abused On A Ryanair Flight Still Hasn't Heard From The Airline,975435871,http://www.huffingtonpost.co.uk/entry/still-nothing-ryanair-fails-to-contact-gayle-family-following-racist-onboard-incident_uk_5bcd907de4b0a8f17eee224e,huffingtonpost.co.uk,news,The Huffington Post,4,David,0
-67,[],"A man who was filmed verbally abusing an elderly woman on a Ryanair flight has been identified, police said.
+A spokesperson today told HuffPost UK: ""As this is now a police matter, we cannot comment further.""",news,2018-10-22,2018-10-22T09:56:00Z,eng-4364609,0.0,eng,0.5254902243614197,09:56:00,Exclusive: The Elderly Woman Racially Abused On A Ryanair Flight Still Hasn't Heard From The Airline,975435871,http://www.huffingtonpost.co.uk/entry/still-nothing-ryanair-fails-to-contact-gayle-family-following-racist-onboard-incident_uk_5bcd907de4b0a8f17eee224e,huffingtonpost.co.uk,news,The Huffington Post,4,David,2
+67,67,[],"A man who was filmed verbally abusing an elderly woman on a Ryanair flight has been identified, police said.
 
 Delsie Gayle, 77, was called an ""ugly black b*****d"" ad told ""don't speak to me in a foreign language, you stupid ugly cow"".
 
@@ -2753,7 +2753,7 @@ Mrs Gayle's daughter had arranged the trip in an attempt to cheer her mother up 
 She said: ""It's coming up to a year of my dad's death, so I thought I'd take my mum away just for a little mini-break.
 
 ""Mum was already feeling low because of Dad, and now with Ryanair it's made her feel more depressed.""",news,2018-10-23,2018-10-23T12:16:00Z,eng-4364609,0.0,eng,0.5058823823928833,12:16:00,Ryanair 'racist' identified by police,976433309,https://talkradio.co.uk/news/ryanair-racist-identified-police-18102328459,talkradio.co.uk,news,talkradio.co.uk,4,Asif,0
-68,"[{'uri': 'joe_brennan@irishtimes.com', 'name': 'Joe Brennan', 'type': 'author', 'isAgency': False}]","Ryanair's first-half profit fell by 7 per cent to € 1.2 billion, as average fares declined due to excess capacity in Europe and repeated air traffic controller strikes, as well as action by the carrier's own staff, caused a spike in flight cancellations.
+68,68,"[{'uri': 'joe_brennan@irishtimes.com', 'name': 'Joe Brennan', 'type': 'author', 'isAgency': False}]","Ryanair's first-half profit fell by 7 per cent to € 1.2 billion, as average fares declined due to excess capacity in Europe and repeated air traffic controller strikes, as well as action by the carrier's own staff, caused a spike in flight cancellations.
 
 However, the carrier said that higher fuel, staff and higher passenger compensation costs as a result of cancelled flights were offset by strong ancillary revenue growth during the six months to the end of September, the company said in a statement on Monday.
 
@@ -2768,7 +2768,7 @@ Chief executive Michael O'Leary said at the time of the profit warning that whil
 The airline has predicted that fares will fall by about 2 per cent during the second half of its financial year.
 
 Carriers, including Ryanair, also had to contend with what Mr O'Leary called the ""worst summer of ATC disruptions on record"" during the first half of its financial year.",news,2018-10-22,2018-10-22T05:26:00Z,eng-4364609,0.0,eng,0.3137255012989044,05:26:00,Ryanair first-half profits fall 7% as strikes weigh,975266193,https://www.irishtimes.com/business/transport-and-tourism/ryanair-first-half-profits-fall-7-as-strikes-weigh-1.3671460,irishtimes.com,news,The Irish Times,4,Shivam,0
-69,"[{'uri': 'emma_costello@extra.ie', 'name': 'Emma Costello', 'type': 'author', 'isAgency': False}]","Karl Turner MP has warned that a man who was racist towards an elderly woman on a Ryanair flight may 'get away with it.'
+69,69,"[{'uri': 'emma_costello@extra.ie', 'name': 'Emma Costello', 'type': 'author', 'isAgency': False}]","Karl Turner MP has warned that a man who was racist towards an elderly woman on a Ryanair flight may 'get away with it.'
 
 The man was filmed by another passenger aboard the flight, travelling from Barcelona to Stansted on Friday.
 
@@ -2799,7 +2799,7 @@ Staff on the flight tried to silence the man and a passenger in the row behind h
 The cabin crew can be heard to say: 'Don't be so rude, you have to calm down' while other passengers call for the man to be thrown off the flight.
 
 The victim can be heard telling the man he stinks and needs a wash, before asking to be moved so she can sit next to her daughter.",news,2018-10-22,2018-10-22T09:57:00Z,eng-4364609,0.0,eng,0.6901960968971252,09:57:00,Ryanair Racist: Racist Man On Ryanair Flight May 'Get Away With It',975436963,https://extra.ie/2018/10/22/news/world-news/man-may-get-away-with-racist-behaviour-on-ryanair-flight,extra.ie,news,Extra.ie,4,Myriam,0
-70,"[{'uri': 'emma_costello@extra.ie', 'name': 'Emma Costello', 'type': 'author', 'isAgency': False}]","The identity of the man on a Ryanair flight who racially abused an elderly woman has been revealed.
+70,70,"[{'uri': 'emma_costello@extra.ie', 'name': 'Emma Costello', 'type': 'author', 'isAgency': False}]","The identity of the man on a Ryanair flight who racially abused an elderly woman has been revealed.
 
 The man was slammed after a video taken by another passenger went viral.
 
@@ -2828,7 +2828,7 @@ Staff on board the flight tried to silence the man but ultimately it was another
 The cabin crew can be heard to say: 'Don't be so rude, you have to calm down' while other passengers call for the man to be thrown off the flight.
 
 Ryanair said in a short statement on social media: 'We are aware of this video and have reported this matter to Essex Police.'",news,2018-10-23,2018-10-23T10:50:00Z,eng-4364609,0.0,eng,0.6980392336845398,10:50:00,Ryanair Passenger Who Racially Abused Woman Identified,976365250,https://extra.ie/2018/10/23/news/world-news/ryanair-passenger-who-racially-abused-woman-identified,extra.ie,news,Extra.ie,4,Ana,0
-71,"[{'uri': 'albert_evans@inews.co.uk', 'name': 'Albert Evans', 'type': 'author', 'isAgency': False}]","Ryanair criticised for moving racially abused elderly black woman
+71,71,"[{'uri': 'albert_evans@inews.co.uk', 'name': 'Albert Evans', 'type': 'author', 'isAgency': False}]","Ryanair criticised for moving racially abused elderly black woman
 
 The man who filmed a Ryanair passenger racially abusing an elderly black woman has claimed he was called ""childish"" for filming the incident which has caused a furious backlash online.
 
@@ -2873,7 +2873,7 @@ Essex Police told i in a statement: ""This incident, which we were made aware of
 The incident has provoked a major backlash with MP David Lammy calling for a boycott of Ryanair.
 
 More Ryanair storiesDavid Lammy calls for a boycott of Ryanair in 'racist' seating rowLate Ryanair passenger arrested by police for running after planeRyanair made £1.7 billion from add-ons last year",news,2018-10-22,2018-10-22T13:57:00Z,eng-4364609,0.0,eng,0.6784313917160034,13:57:00,Man who filmed Ryanair passenger's racist abuse claims he was called 'childish' for recording incident,975620069,https://inews.co.uk/news/uk/ryanair-passenger-racist-abuse-video-man-filmed-incident/,inews.co.uk,news,iNews,4,Hugo,0
-72,[],"MPs have criticised budget airline Ryanair for its failure to remove an abusive passenger from a flight after he lauched a racist tirade at the woman next to him.
+72,72,[],"MPs have criticised budget airline Ryanair for its failure to remove an abusive passenger from a flight after he lauched a racist tirade at the woman next to him.
 
 David Lammy called for a boycott of the airline, while Karl Turner said the airline ""failed spectacularly"" and explained that, because of aviation law, the man may ""get away"" with the behaviour.
 
@@ -2921,8 +2921,8 @@ A spokeswoman for Essex police said: ""This incident, which we were made aware o
 
 ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
-""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T07:58:00Z,eng-4364609,0.0,eng,0.7803921699523926,07:58:00,Ryanair racist: MPs condemn budget airline for failure to remove,975353105,https://talkradio.co.uk/news/ryanair-racist-mps-condemn-budget-airline-failure-remove-abusive-passenger-18102228438,talkradio.co.uk,news,talkradio.co.uk,4,David,0
-73,"[{'uri': 'sean_murray@thejournal.ie', 'name': 'Sean Murray', 'type': 'author', 'isAgency': False}]","RYANAIR HAS SAID it is aware of a video being shared widely on social media showing a passenger racially abusing another passenger on a flight, and has reported the matter to Essex Police.
+""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T07:58:00Z,eng-4364609,0.0,eng,0.7803921699523926,07:58:00,Ryanair racist: MPs condemn budget airline for failure to remove,975353105,https://talkradio.co.uk/news/ryanair-racist-mps-condemn-budget-airline-failure-remove-abusive-passenger-18102228438,talkradio.co.uk,news,talkradio.co.uk,4,David,3
+73,73,"[{'uri': 'sean_murray@thejournal.ie', 'name': 'Sean Murray', 'type': 'author', 'isAgency': False}]","RYANAIR HAS SAID it is aware of a video being shared widely on social media showing a passenger racially abusing another passenger on a flight, and has reported the matter to Essex Police.
 
 In the video, a man can be seen and heard telling a black woman that she is an ""ugly black bastard"".
 
@@ -2941,7 +2941,7 @@ The airline operates a number of services from Stansted Airport, which is locate
 On its website detailing general terms and conditions of carriage - effective of 12 September 2018 - Ryanair says it can refuse carriage if a person's ""mental of physical state or attitude, behaviour or demeanour"" presents a ""hazard or risk to yourself, to passengers, to crew or to property"".
 
 TheJournal.ie has asked Ryanair for further comment over the incident.",news,2018-10-21,2018-10-21T09:25:00Z,eng-4364609,0.0,eng,0.6392157077789307,09:25:00,Ryanair reports video to police after footage emerges of passenger racially abusing another,974750664,http://www.thejournal.ie/ryanair-racist-abuse-4297700-Oct2018/,thejournal.ie,news,TheJournal.ie,4,Asif,0
-74,"[{'uri': 'david_rivers@dailystar.co.uk', 'name': 'David Rivers', 'type': 'author', 'isAgency': False}]","A RYANAIR passenger who hurled racist abuse on a plane may ""get away with it"", according to a shadow transport minister.
+74,74,"[{'uri': 'david_rivers@dailystar.co.uk', 'name': 'David Rivers', 'type': 'author', 'isAgency': False}]","A RYANAIR passenger who hurled racist abuse on a plane may ""get away with it"", according to a shadow transport minister.
 
 The man was caught on camera calling an elderly woman an ""ugly black b******"" before shouting ""don't talk to me in a foreign language you stupid ugly cow"".
 
@@ -2953,8 +2953,8 @@ Turner, a qualified barrister, wrote on Twitter: ""Suspect the pressure to turn 
 
 He added: ""Ryanair failure to deplane the alleged racist offender, handing him over to the Spanish authorities probably means that he isn't now prosecuted.""
 
-The sick footage was recorded on October 19 on a Ryanair flight FR015 from Barcelona to London Stansted by Kent resident David Lawrence, who uploaded it on to social media.",news,2018-10-22,2018-10-22T10:59:00Z,eng-4364609,0.0,eng,0.545098066329956,10:59:00,Ryanair racist rant passenger to 'get away with it' as airline SLAMMED ,975483202,https://www.dailystar.co.uk/news/latest-news/737934/ryanair-racist-video-attack-watch-passenger-london-barcelona,dailystar.co.uk,news,Daily Star,4,Shivam,0
-75,"[{'uri': 'sandra_murphy@extra.ie', 'name': 'Sandra Murphy', 'type': 'author', 'isAgency': False}]","TV presenter Eamonn Holmes has slammed Ryanair after the airline refused to comment on a woman who was victim of racial abuse.
+The sick footage was recorded on October 19 on a Ryanair flight FR015 from Barcelona to London Stansted by Kent resident David Lawrence, who uploaded it on to social media.",news,2018-10-22,2018-10-22T10:59:00Z,eng-4364609,0.0,eng,0.5450980663299559,10:59:00,Ryanair racist rant passenger to 'get away with it' as airline SLAMMED ,975483202,https://www.dailystar.co.uk/news/latest-news/737934/ryanair-racist-video-attack-watch-passenger-london-barcelona,dailystar.co.uk,news,Daily Star,4,Shivam,0
+75,75,"[{'uri': 'sandra_murphy@extra.ie', 'name': 'Sandra Murphy', 'type': 'author', 'isAgency': False}]","TV presenter Eamonn Holmes has slammed Ryanair after the airline refused to comment on a woman who was victim of racial abuse.
 
 He reacted in horror as widow Delcie Gayle revealed how she was unable to eat or sleep after she was targeted by a fellow passenger on a flight from Barcelona to London Stansted.
 
@@ -2989,7 +2989,7 @@ She said: 'It's coming up to a year of my dad's death, so I thought I'd take my 
 'Mum was already feeling low because of Dad, and now with Ryanair it's made her feel more depressed.'
 
 Extra.ie contacted a representative at Ryanair for comment, who said: 'We have reported this to the police in Essex and as this is now a police matter, we cannot comment further.'",news,2018-10-23,2018-10-23T16:05:00Z,eng-4364609,0.0,eng,0.6392157077789307,16:05:00,Eamonn Holmes Slams Ryanair For Refusing To Speak On Racial Abuse,976619646,https://extra.ie/2018/10/23/entertainment/celebrity/eamonn-holmes-slams-ryanair-for-refusing-to-speak-on-racial-abuse,extra.ie,news,Extra.ie,4,Myriam,0
-76,"[{'uri': 'nadine_white@huffingtonpost.co.uk', 'name': 'Nadine White', 'type': 'author', 'isAgency': False}]","Mrs Gayle was called a ""black bastard"" by a passenger who refused to sit next to her.
+76,76,"[{'uri': 'nadine_white@huffingtonpost.co.uk', 'name': 'Nadine White', 'type': 'author', 'isAgency': False}]","Mrs Gayle was called a ""black bastard"" by a passenger who refused to sit next to her.
 
 An elderly black woman who was racially abused by a fellow passenger on a Ryanair flight is a Windrush generation migrant who was returning from a holiday to mark the anniversary of her husband's death, her daughter has told HuffPost UK.
 
@@ -3002,7 +3002,7 @@ The video begins with a noisy row over seating, in which Mrs Gayle's daughter ca
 Eventually, Mrs Gayle is seen asking to be moved, while the man remains in his seat. He can then be heard telling the flight attendant, ""I'm alright, now she's gone."" Passengers can be seen intervening, with one asking for the elderly man to be taken off the flight.
 
 The incident took place just before the flight - FR9015 - was scheduled to leave from Barcelona for London Stansted on Friday afternoon. Ryanair have now said the incident has been reported to Essex police.",news,2018-10-21,2018-10-21T08:34:00Z,eng-4364609,0.0,eng,0.6470588445663452,08:34:00,Exclusive: Daughter Of Elderly Woman Racially Abused On A Ryanair Flight Says Her Mother Is A Member Of The Windrush Generation,974727579,http://www.huffingtonpost.co.uk/entry/daughter-of-ryanair-racist-abuse-victim-speaks-out-following-on-flight-attack_uk_5bcb4379e4b055bc94811e92,huffingtonpost.co.uk,news,The Huffington Post,4,Ana,0
-77,"[{'uri': 'isabel_togoh@huffingtonpost.co.uk', 'name': 'Isabel Togoh', 'type': 'author', 'isAgency': False}]","The airline has been hit by strikes and lower passenger numbers over the last year.
+77,77,"[{'uri': 'isabel_togoh@huffingtonpost.co.uk', 'name': 'Isabel Togoh', 'type': 'author', 'isAgency': False}]","The airline has been hit by strikes and lower passenger numbers over the last year.
 
 Ryanair suffered a dip in pre-tax profits over the last financial half brought on by rising fuel costs and compensation payouts for delayed and cancelled flights.
 
@@ -3035,7 +3035,7 @@ It comes as the airline was hit with another scandal over the weekend in which a
 The woman's family exclusively told HuffPost UK that Mrs Gayle, a 77-year-old immigrant of the Windrush generation, has still not received an apology from the airline three days after the incident.
 
 A spokesperson for the company said they could not comment further ""as this is now a police matter"".",news,2018-10-22,2018-10-22T10:56:00Z,eng-4364609,0.0,eng,0.3764705955982208,10:56:00,Ryanair Profits Knocked By Strikes And Rising Fuel Costs,975480610,http://www.huffingtonpost.co.uk/entry/ryanair-profits-fall_uk_5bcd9fcbe4b055bc94828762,huffingtonpost.co.uk,news,The Huffington Post,4,Hugo,0
-78,"[{'uri': 'phoebe_cooke@thesun.co.uk', 'name': 'Phoebe Cooke', 'type': 'author', 'isAgency': False}]","Footage of the row has been viewed tens of thousands of times after a fellow passenger posted it on social media
+78,78,"[{'uri': 'phoebe_cooke@thesun.co.uk', 'name': 'Phoebe Cooke', 'type': 'author', 'isAgency': False}]","Footage of the row has been viewed tens of thousands of times after a fellow passenger posted it on social media
 
 THIS sickening footage shows a Ryanair passenger unleashing a vile torrent of racist abuse at an elderly woman sitting next to him.
 
@@ -3061,8 +3061,8 @@ David Lawrence said he filmed the clip on flight FR9015 from Barcelona to London
 
 Social media users have also expressed outrage that the victim, rather than the abuser, was moved from her seat.
 
-The Sun Online has approached Ryanair for a comment.",news,2018-10-21,2018-10-21T00:47:00Z,eng-4364609,0.0,eng,0.5803921818733215,00:47:00,Moment Ryanair passenger unleashes vile torrent of racist abuse at woman seated near him,974565329,https://www.thesun.co.uk/news/7544736/ryanair-passenger-racist-dispute/,thesun.co.uk,news,The Sun,4,David,0
-79,"[{'uri': 'david_rivers@dailystar.co.uk', 'name': 'David Rivers', 'type': 'author', 'isAgency': False}]","RYANAIR has announced a plunge in profits after a series of strikes rocked the airline.
+The Sun Online has approached Ryanair for a comment.",news,2018-10-21,2018-10-21T00:47:00Z,eng-4364609,0.0,eng,0.5803921818733215,00:47:00,Moment Ryanair passenger unleashes vile torrent of racist abuse at woman seated near him,974565329,https://www.thesun.co.uk/news/7544736/ryanair-passenger-racist-dispute/,thesun.co.uk,news,The Sun,4,David,2
+79,79,"[{'uri': 'david_rivers@dailystar.co.uk', 'name': 'David Rivers', 'type': 'author', 'isAgency': False}]","RYANAIR has announced a plunge in profits after a series of strikes rocked the airline.
 
 The company reported a 7% fall in profits for the first half of the year.
 
@@ -3075,7 +3075,7 @@ Chief executive, Michael O'Leary, said: ""As recently guided, H1 average fares f
 ""While ancillary revenues performed strongly, up 27%, these were offset by higher fuel, staff and EU261 (compensation) costs.
 
 ""Our traffic, which was repeatedly impacted by the worst summer of ATC (air traffic control) disruptions on record, grew 6% at an unchanged 96% load factor.""",news,2018-10-22,2018-10-22T06:51:00Z,eng-4364609,0.0,eng,0.1294117718935013,06:51:00,BREAKING: Ryanair profits plunge after strike chaos,975310900,https://www.dailystar.co.uk/news/latest-news/737875/ryanair-strikes-cancellations-europe-fares-delays-easter-flights,dailystar.co.uk,news,Daily Star,4,Asif,0
-80,"[{'uri': 'serina_sandhu@inews.co.uk', 'name': 'Serina Sandhu', 'type': 'author', 'isAgency': False}]","At 20 weeks, I learned the baby I wanted so badly could not survive the birth. But I was still denied abortion - in the UK
+80,80,"[{'uri': 'serina_sandhu@inews.co.uk', 'name': 'Serina Sandhu', 'type': 'author', 'isAgency': False}]","At 20 weeks, I learned the baby I wanted so badly could not survive the birth. But I was still denied abortion - in the UK
 
 Police have identified the man who was filmed racially abusing an elderly woman on a Ryanair flight and passed the information on to Spanish authorities.
 
@@ -3114,7 +3114,7 @@ The footage was filmed by David Lawrence, who had also been travelling back to L
 ""For many years, a lot of the West Indian community has gone through a lot of these types of incidents in Britain, but have never been able to share it, with the public or with the world and so I decided that I had the opportunity to film this, as difficult as it was.""
 
 More on RyanairMan who filmed Ryanair 'racist passenger' says he was called childishDavid Lammy calls for a boycott of Ryanair in 'racist' seating rowRyanair criticised for moving racially abused elderly black womanRyanair's flash sale has seats for £5.33 - here are the cheapest onesRyanair strike: how to claim compensationFull details on the latest Ryanair strike",news,2018-10-23,2018-10-23T11:29:00Z,eng-4364609,0.0,eng,0.6941176652908325,11:29:00,Ryanair passenger who racially abused Windrush immigrant on flight identified by police,976396830,https://inews.co.uk/news/uk/ryanair-passenger-racist-abuse-rant-video-identified-police/,inews.co.uk,news,iNews,4,Shivam,0
-81,"[{'uri': 'joe_brennan@irishtimes.com', 'name': 'Joe Brennan', 'type': 'author', 'isAgency': False}]","Ryanair, which has returned over €6 billion to shareholders over the past decade through share buybacks and special dividends, has pressed the pause button for at least six months on further stock repurchases amid uncertainty about the outcome of Brexit talks.
+81,81,"[{'uri': 'joe_brennan@irishtimes.com', 'name': 'Joe Brennan', 'type': 'author', 'isAgency': False}]","Ryanair, which has returned over €6 billion to shareholders over the past decade through share buybacks and special dividends, has pressed the pause button for at least six months on further stock repurchases amid uncertainty about the outcome of Brexit talks.
 
 Speaking on a call with analysts after Ryanair posted a 7 per cent slump in first-half profits to €1.2 billion, group chief executive Michael O'Leary said that ""it's appropriate"" to wait for some clarity on the UK's exit from the European Union before buying back more shares. Ryanair spent €750 million acquiring its own stock between February and early October as its market value fell.
 
@@ -3147,7 +3147,7 @@ Ryanair said that with airline margins under pressure in Europe oil prices and t
 The company said that 90 per cent of its own fuel needs are hedged at $68 dollars per barrel, below the current market price of about $80.
 
 Mr O'Leary told Bloomberg TV on Monday morning that he would be happy to remain as chief executive for another ""two to three years"".",news,2018-10-22,2018-10-22T14:46:00Z,eng-4364609,0.0,eng,0.3803921639919281,14:46:00,Ryanair presses pause on share buybacks as Brexit looms,975658292,https://www.irishtimes.com/business/transport-and-tourism/ryanair-presses-pause-on-share-buybacks-as-brexit-looms-1.3671460,irishtimes.com,news,The Irish Times,4,Myriam,0
-82,"[{'uri': 'david_rivers@dailystar.co.uk', 'name': 'David Rivers', 'type': 'author', 'isAgency': False}]","A VIDEO of a Ryanair passenger unleashing a furious racist rant has sparked a response from 10 Downing Street.
+82,82,"[{'uri': 'david_rivers@dailystar.co.uk', 'name': 'David Rivers', 'type': 'author', 'isAgency': False}]","A VIDEO of a Ryanair passenger unleashing a furious racist rant has sparked a response from 10 Downing Street.
 
 The man has sparked widespread fury after he called a woman next to him an ""ugly black b******"" before saying ""don't talk to me in a foreign language you stupid ugly cow"".
 
@@ -3160,7 +3160,7 @@ Prime Minister Theresa May's official spokesman said: ""When people are travelli
 ""The Prime Minister has always been clear that racial abuse is abhorrent.
 
 ""In relation to this particular case, there's obviously an investigation being conducted by Essex Police and it's right that I don't comment specifically on that.""",news,2018-10-22,2018-10-22T13:35:00Z,eng-4364609,0.0,eng,0.4549019634723663,13:35:00,Ryanair racist rant video sparks intervention from PRIME MINISTER,975603250,https://www.dailystar.co.uk/news/latest-news/737988/ryanair-racist-video-rant-theresa-may-politics-news,dailystar.co.uk,news,Daily Star,4,Ana,0
-83,"[{'uri': 'ceimin_burke@thejournal.ie', 'name': 'Ceimin Burke', 'type': 'author', 'isAgency': False}]","Image: David Lawrence Image: David Lawrence
+83,83,"[{'uri': 'ceimin_burke@thejournal.ie', 'name': 'Ceimin Burke', 'type': 'author', 'isAgency': False}]","Image: David Lawrence Image: David Lawrence
 
 A DISABLED WOMAN who was the victim of racist tirade on a Ryanair flight has said that the attack has left her depressed and unable to eat.
 
@@ -3201,7 +3201,7 @@ The incident was filmed by David Lawrence who told BBC Radio 4's Today programme
 ""For many years a lot of the West Indian community have gone through these types of incidents in Britain, but have never been able to share it with the public or with the world. So I decided that I had the opportunity to film this, as difficult as it was,"" he said.
 
 Lawrence added that he was not impressed by Ryanair's handling of the attack and he had previously seen people escorted off planes for less.",news,2018-10-22,2018-10-22T21:01:00Z,eng-4364609,0.0,eng,0.572549045085907,21:01:00,'I feel very low': Victim of racist abuse on Ryanair flight struggling with depression following attack,975910109,http://www.thejournal.ie/ryanair-racist-attack-victim-4299555-Oct2018/,thejournal.ie,news,TheJournal.ie,4,Hugo,0
-84,[],"The man, left, who was caught on camera racially abusing another passenger. Image: David Lawrence
+84,84,[],"The man, left, who was caught on camera racially abusing another passenger. Image: David Lawrence
 
 An anti-racism campaigner has condemned Ryanair's reaction to an abusive passenger on a plane, saying the airline should apologise as a ""minimum"".
 
@@ -3237,8 +3237,8 @@ Graham asked whether bigotry had always been there, but had become more noticeab
 
 He called for a ""sanction"" on Ryanair for their response to the incident. ""Anybody who behaves like that should be excluded from the flight... there should be some kind of sanction on Ryanair just ignoring it,"" Bennett continued.
 
-""We really have to make sure we don't normalise this behaviour. We've got to stop this stuff that the bullies represent the silent majority. Bullies should be exposed.""",news,2018-10-22,2018-10-22T09:16:00Z,eng-4364609,0.0,eng,0.4745098054409027,09:16:00,"Ryanair should be 'sanctioned' for not removing 'racist' passenger,",975405842,https://talkradio.co.uk/news/ryanair-should-be-sanctioned-not-removing-racist-passenger-says-campaigner-18102228439,talkradio.co.uk,news,talkradio.co.uk,4,David,0
-85,[],"Image: DPA/PA Images Image: DPA/PA Images
+""We really have to make sure we don't normalise this behaviour. We've got to stop this stuff that the bullies represent the silent majority. Bullies should be exposed.""",news,2018-10-22,2018-10-22T09:16:00Z,eng-4364609,0.0,eng,0.4745098054409027,09:16:00,"Ryanair should be 'sanctioned' for not removing 'racist' passenger,",975405842,https://talkradio.co.uk/news/ryanair-should-be-sanctioned-not-removing-racist-passenger-says-campaigner-18102228439,talkradio.co.uk,news,talkradio.co.uk,4,David,4
+85,85,[],"Image: DPA/PA Images Image: DPA/PA Images
 
 DURING A PERIOD when Ryanair was ""rife with strikes"", profits at the no-frills airline dipped by €90 million.
 
@@ -3297,7 +3297,7 @@ Sign up to our newsletter to receive a regular digest of Fora's top articles del
 Written by Killian Woods and posted on Fora.ie
 
 Take me to Fora Get the top business news from Fora delivered to your inbox:",news,2018-10-22,2018-10-22T12:21:00Z,eng-4364609,0.0,eng,0.4156862795352936,12:21:00,'Don't believe everything you read' - Ryanair is bullish in the face of strikes and profit slips,975545568,http://www.thejournal.ie/ryanair-profit-sales-2018-2-4298737-Oct2018/,thejournal.ie,news,TheJournal.ie,4,Asif,0
-86,[],"Still from video of a passenger on a Ryanair flight who verbally abused the woman in the seat next to him. Image: David Lawrence/PA Wire
+86,86,[],"Still from video of a passenger on a Ryanair flight who verbally abused the woman in the seat next to him. Image: David Lawrence/PA Wire
 
 A man who filmed a viral 'racist' incident on a Ryanair flight said he chose not to intervene so that he could publicise what happened.
 
@@ -3336,7 +3336,7 @@ It added: ""As this is now a police matter, we cannot comment further.""
 A spokeswoman for Essex police said on Sunday: ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 ""We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T12:52:00Z,eng-4364609,0.0,eng,0.7019608020782471,12:52:00,Man who filmed 'racist' incident on Ryanair flight does not regret it,975568777,https://talkradio.co.uk/news/man-who-filmed-racist-incident-ryanair-flight-does-not-regret-it-18102228444,talkradio.co.uk,news,talkradio.co.uk,4,Shivam,0
-87,"[{'uri': 'nicholas_bieber@dailystar.co.uk', 'name': 'Nicholas Bieber', 'type': 'author', 'isAgency': False}]","THIS is the sickening moment a Ryanair passenger unleashed a vile torrent of racist abuse at an elderly woman sat next to him.
+87,87,"[{'uri': 'nicholas_bieber@dailystar.co.uk', 'name': 'Nicholas Bieber', 'type': 'author', 'isAgency': False}]","THIS is the sickening moment a Ryanair passenger unleashed a vile torrent of racist abuse at an elderly woman sat next to him.
 
 The shocking video shows a white man spewing horrific verbal abuse at a black woman sitting just one seat apart from him.
 
@@ -3347,7 +3347,7 @@ He then starts shouting at crew to ""put her in another seat"" before calling he
 Despite the woman trying to respond quietly, he spews: Don't talk to me in a f*****g foreign language you stupid ugly cow"".
 
 He later adds: ""I will carry on as far as I can with this ugly, black b*****d.""",news,2018-10-21,2018-10-21T14:12:00Z,eng-4364609,0.0,eng,0.4745098054409027,14:12:00,FURY as Ryanair passenger hurls VILE racist abuse at woman - but crew tell HER to move,974889301,https://www.dailystar.co.uk/news/latest-news/737788/Ryanair-racist-passenger-racial-abuse-david-lawrence-flight-London-Stansted,dailystar.co.uk,news,Daily Star,4,Myriam,0
-88,"[{'uri': 'holly_christodoulou@thesun.co.uk', 'name': 'Holly Christodoulou', 'type': 'author', 'isAgency': False}]","Essex Police had been slammed for failing to make any arrests after Delsie Gayle, 77, was branded an 'ugly black b******' on the flight from Barcelona to Stansted
+88,88,"[{'uri': 'holly_christodoulou@thesun.co.uk', 'name': 'Holly Christodoulou', 'type': 'author', 'isAgency': False}]","Essex Police had been slammed for failing to make any arrests after Delsie Gayle, 77, was branded an 'ugly black b******' on the flight from Barcelona to Stansted
 
 BRIT cops probing a vile racist rant on board a Ryanair flight have finally identified a suspect - with Spanish cops now helping the investigation.
 
@@ -3408,7 +3408,7 @@ One user fumed: ""Why isn't the useless @EssexPoliceUK bothered to arrest him?""
 Another raged: ""Don't understand why he was allowed to fly, why the police didn't arrest him, why that woman was moved and not him"".
 
 A third blasted: ""Why weren't the police called to remove and arrest this nasty racist?""",news,2018-10-23,2018-10-23T08:20:00Z,eng-4364609,0.0,eng,0.5882353186607361,08:20:00,Cops FINALLY identify passenger in Ryanair racist rant footage,976251420,https://www.thesun.co.uk/news/7560066/cops-finally-identify-passenger-in-ryanair-racist-rant-footage-as-spanish-authorities-help-investigation/,thesun.co.uk,news,The Sun,4,Ana,0
-89,"[{'uri': 'graham_mcgrath@extra.ie', 'name': 'Graham McGrath', 'type': 'author', 'isAgency': False}]","A woman said she felt 'very low' after she was subjected to vile racist abuse while on a Ryanair flight last week.
+89,89,"[{'uri': 'graham_mcgrath@extra.ie', 'name': 'Graham McGrath', 'type': 'author', 'isAgency': False}]","A woman said she felt 'very low' after she was subjected to vile racist abuse while on a Ryanair flight last week.
 
 Delsie Gayle, 77, was travelling from Barcelona to London on flight FR015 on October 19, when she was verbally attacked by a fellow passenger.
 
@@ -3431,7 +3431,7 @@ Mrs Gayle said her sadness is made worse by the fact that she is mourning her hu
 There has been a significant backlash at how the situation was handled by in-flight staff, as many suggested that the man should have been removed from the plane immediately.
 
 Ryanair said in a short statement on social media: 'We are aware of this video and have reported this matter to Essex Police.'",news,2018-10-23,2018-10-23T08:39:00Z,eng-4364609,0.0,eng,0.4941176474094391,08:39:00,"Passenger, 77, Opens Up About Shocking Racist Abuse On Ryanair Flight",976265876,https://extra.ie/2018/10/23/news/real-life/passenger-racist-abuse-ryanair-flight,extra.ie,news,Extra.ie,4,Hugo,0
-90,"[{'uri': 'nadine_white@huffingtonpost.co.uk', 'name': 'Nadine White', 'type': 'author', 'isAgency': False}]","Details of the incident in which an elderly black woman was racially abused by a fellow passenger on a Ryanair flight have been passed on to Spanish investigators.
+90,90,"[{'uri': 'nadine_white@huffingtonpost.co.uk', 'name': 'Nadine White', 'type': 'author', 'isAgency': False}]","Details of the incident in which an elderly black woman was racially abused by a fellow passenger on a Ryanair flight have been passed on to Spanish investigators.
 
 Essex Police told HuffPost UK: ""We have worked to identify both parties involved in this incident and passed this information to the Spanish authorities, who are leading on this investigation.
 
@@ -3443,8 +3443,8 @@ The video begins with a row over seating, in which Gayle's daughter can be seen 
 
 Mrs Gayle was returning from a trip to Spain with her daughter Carol Gayle, 53, who told HuffPost UK: ""The underlying reason behind the man's abusive behaviour comes down to the fact that my mum is a black woman and he didn't want her sitting next to him - he says it in the video.
 
-""This is black history month! My mother has worked her all of her life, paid her taxes and her dues,"" her daughter added. ""Why should she have to go through all of this?""",news,2018-10-23,2018-10-23T08:46:00Z,eng-4364609,0.0,eng,0.5058823823928833,08:46:00,Ryanair Racist Abuse Case Passed Over To Spanish Police,976270719,http://www.huffingtonpost.co.uk/entry/ryanair-racist-abuse-case-passed-over-to-spanish-police_uk_5bced8b5e4b0d38b587bc539,huffingtonpost.co.uk,news,The Huffington Post,4,David,0
-91,[],"Ryanair has reported to UK police an incident on a plane in which a passenger was filmed shouting racial abuse to a woman in the seat next to him.
+""This is black history month! My mother has worked her all of her life, paid her taxes and her dues,"" her daughter added. ""Why should she have to go through all of this?""",news,2018-10-23,2018-10-23T08:46:00Z,eng-4364609,0.0,eng,0.5058823823928833,08:46:00,Ryanair Racist Abuse Case Passed Over To Spanish Police,976270719,http://www.huffingtonpost.co.uk/entry/ryanair-racist-abuse-case-passed-over-to-spanish-police_uk_5bced8b5e4b0d38b587bc539,huffingtonpost.co.uk,news,The Huffington Post,4,David,4
+91,91,[],"Ryanair has reported to UK police an incident on a plane in which a passenger was filmed shouting racial abuse to a woman in the seat next to him.
 
 The airline had been criticised for apparently failing to remove the man from the plane, who was filmed by a fellow passenger calling the elderly woman an ""ugly black bastard"", and shouting ""don't talk to me in a foreign language you stupid ugly cow"".
 
@@ -3483,7 +3483,7 @@ Fellow MSP politician Margaret Ferrier said: ""Just watched the shocking footage
 Ryanair on Sunday that it had seen the footage and reported the incident to Essex police.
 
 It added: ""As this is now a police matter, we cannot comment further."" - PA",news,2018-10-22,2018-10-22T08:51:00Z,eng-4364609,0.0,eng,0.7921568751335144,08:51:00,Ryanair reports 'racist tirade' incident to UK police,975388490,https://www.irishtimes.com/news/ireland/irish-news/ryanair-reports-racist-tirade-incident-to-uk-police-1.3670695,irishtimes.com,news,The Irish Times,4,Asif,0
-92,"[{'uri': 'jacob_dirnhuber@thesun.co.uk', 'name': 'Jacob Dirnhuber', 'type': 'author', 'isAgency': False}]","Twitter users hit out at Essex Police after Delsie Gayle, 77, said she hadn't been able to eat or sleep since being abused by a fellow passenger - with cabin crew insisting she be the one to move
+92,92,"[{'uri': 'jacob_dirnhuber@thesun.co.uk', 'name': 'Jacob Dirnhuber', 'type': 'author', 'isAgency': False}]","Twitter users hit out at Essex Police after Delsie Gayle, 77, said she hadn't been able to eat or sleep since being abused by a fellow passenger - with cabin crew insisting she be the one to move
 
 COPS have been slammed for failing to take action after an elderly widow who was called an ""ugly black b******"" in a sick racist rant on a Ryanair flight.
 
@@ -3542,7 +3542,7 @@ Tens of thousands of people have viewed the row on flight FR9015 on Friday after
 Essex Police said: ""This incident, which we were made aware of this morning, is believed to have taken place on a plane at Barcelona Airport.
 
 ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported. We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T20:47:00Z,eng-4364609,0.0,eng,0.6549019813537598,20:47:00,Cops slammed for STILL not arresting anyone over Ryanair racist rant day after it happened,975902558,https://www.thesun.co.uk/news/7557876/ryanair-racist-abuse-video-essex-police-arrest/,thesun.co.uk,news,The Sun,4,Shivam,0
-93,"[{'uri': 'louis_dore@inews.co.uk', 'name': 'Louis Doré', 'type': 'author', 'isAgency': False}]","Labour MP David Lammy has called for a boycott of Ryanair, after a video has emerged appearing to show an elderly black woman being racially abused on a flight.
+93,93,"[{'uri': 'louis_dore@inews.co.uk', 'name': 'Louis Doré', 'type': 'author', 'isAgency': False}]","Labour MP David Lammy has called for a boycott of Ryanair, after a video has emerged appearing to show an elderly black woman being racially abused on a flight.
 
 The woman, who was being shouted at by a white man sat next to her on the flight, was called an ""ugly, black bastard"" and was later asked to move while the man who was shouting the abuse remained in his seat.
 
@@ -3573,7 +3573,7 @@ Essex Police told i in a statement: ""This incident, which we were made aware of
 Anyone with information can contact Crimestoppers anonymously on 0800 555 111.
 
 More UK news:Mark Carney spent over £50,000 in expenses on travel in three monthsRyanair criticised for moving racially abused elderly black womanFerry collision on Isle of Wight: facts minus speculationChildren's A&E food allergy admissions up 76 per cent in five yearsEDL mocked for holding rally where barely anyone turned upJulian Assange to sue Ecuador for 'violating his rights'",news,2018-10-21,2018-10-21T16:17:00Z,eng-4364609,0.0,eng,0.6470588445663452,16:17:00,David Lammy leads calls to boycott Ryanair in row over 'racist passenger' seating,974951108,https://inews.co.uk/news/uk/ryanair-boycott-racism-racial-abuse-passenger-boycott-david-lammy/,inews.co.uk,news,iNews,4,Myriam,0
-94,"[{'uri': 'james_cox@thesun.co.uk', 'name': 'James Cox', 'type': 'author', 'isAgency': False}]","Delsie Gayle, 77, said she had been horrified after her fellow passenger started to abuse her and cabin crew insisted she move on the flight from Barcelona to London Stansted
+94,94,"[{'uri': 'james_cox@thesun.co.uk', 'name': 'James Cox', 'type': 'author', 'isAgency': False}]","Delsie Gayle, 77, said she had been horrified after her fellow passenger started to abuse her and cabin crew insisted she move on the flight from Barcelona to London Stansted
 
 AN elderly widow who was called an ""ugly black b******"" in a sick racist rant on a Ryanair flight has revealed she hasn't been able to eat or sleep since the attack.
 
@@ -3626,7 +3626,7 @@ Tens of thousands of people have viewed the row on flight FR9015 on Friday after
 Essex Police said: ""This incident, which we were made aware of this morning, is believed to have taken place on a plane at Barcelona Airport.
 
 ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported. We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-22,2018-10-22T13:13:00Z,eng-4364609,0.0,eng,0.6941176652908325,13:13:00,Ryanair passenger abused in racist rant reveals sleepless nights after attack,975585445,https://www.thesun.co.uk/news/7550772/ryanair-passenger-racist-attack-victim-suffers-sleepless-nights/,thesun.co.uk,news,The Sun,4,Ana,0
-95,"[{'uri': 'louis_dore@inews.co.uk', 'name': 'Louis Doré', 'type': 'author', 'isAgency': False}]","A video has emerged showing an elderly black woman being called an ""ugly, black bastard"" on a Ryanair flight.
+95,95,"[{'uri': 'louis_dore@inews.co.uk', 'name': 'Louis Doré', 'type': 'author', 'isAgency': False}]","A video has emerged showing an elderly black woman being called an ""ugly, black bastard"" on a Ryanair flight.
 
 Footage of the incident has been widely circulated on social media that appears to show a white man, shouting the abuse, able to remain in his seat while the black woman has to move.
 
@@ -3673,7 +3673,7 @@ On social media, Ryanair's handling of the situation has been criticised:
 Anyone with information can contact Crimestoppers anonymously on 0800 555 111.
 
 More UK news:Ferry collision on Isle of Wight: facts minus speculationChildren's A&E food allergy admissions up 76 per cent in five yearsEDL mocked for holding rally where barely anyone turned upJulian Assange to sue Ecuador for 'violating his rights'App shows off cheapest, not direct, train faresTory rebellion grows as Boris Johnson praises MP who tore into Theresa May's government",news,2018-10-21,2018-10-21T11:59:00Z,eng-4364609,0.0,eng,0.6509804129600525,11:59:00,White man called elderly black woman sat next to him 'black bastard' - so Ryanair moved the black woman,974822714,https://inews.co.uk/news/uk/ryanair-racial-abuse-passenger-moved-video/,inews.co.uk,news,iNews,4,Hugo,0
-96,[],"Delsie Gayle (77) has not received apology from airline, says daughter
+96,96,[],"Delsie Gayle (77) has not received apology from airline, says daughter
 
 A man who was filmed racially abusing an elderly woman on a Ryanair flight has been identified, police said.
 
@@ -3705,8 +3705,8 @@ She told ITV News: ""He should have been moved or taken off the plane and nothin
 
 ""Nobody has apologised. We've not had nothing. We just want an open apology from Ryanair.
 
-""I can't even watch the video any more, it's just so upsetting."" - PA",news,2018-10-23,2018-10-23T09:32:00Z,eng-4364609,0.0,eng,0.6117647290229797,09:32:00,Police identify man who racially abused woman on Ryanair flight,976305190,https://www.irishtimes.com/news/ireland/irish-news/police-identify-man-who-racially-abused-woman-on-ryanair-flight-1.3672766,irishtimes.com,news,The Irish Times,4,David,0
-97,"[{'uri': 'conal_thomas@thejournal.ie', 'name': 'Conal Thomas', 'type': 'author', 'isAgency': False}]","Image: David Lawrence Image: David Lawrence
+""I can't even watch the video any more, it's just so upsetting."" - PA",news,2018-10-23,2018-10-23T09:32:00Z,eng-4364609,0.0,eng,0.6117647290229797,09:32:00,Police identify man who racially abused woman on Ryanair flight,976305190,https://www.irishtimes.com/news/ireland/irish-news/police-identify-man-who-racially-abused-woman-on-ryanair-flight-1.3672766,irishtimes.com,news,The Irish Times,4,David,5
+97,97,"[{'uri': 'conal_thomas@thejournal.ie', 'name': 'Conal Thomas', 'type': 'author', 'isAgency': False}]","Image: David Lawrence Image: David Lawrence
 
 POLICE IN ESSEX say they have ""worked to identify both parties"" involved in last week's racist rant aboard a Ryanair flight.
 
@@ -3729,7 +3729,7 @@ Gayle has said she has not been contacted by Ryanair.
 The airline has faced criticism for not intervening to stop the abuse and tweeted on Sunday that it had reported the matter to Essex police.
 
 ""As this is now a police matter, we cannot comment further.""",news,2018-10-23,2018-10-23T09:57:00Z,eng-4364609,0.0,eng,0.5372549295425415,09:57:00,Ryanair racism probe: Essex police hand over case information to Spanish police,976324642,http://www.thejournal.ie/ryanair-racism-probe-essex-police-hand-over-case-information-to-spanish-police-4300050-Oct2018/,thejournal.ie,news,TheJournal.ie,4,Asif,0
-98,[],"Get what's on updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
+98,98,[],"Get what's on updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
 Ryanair has slashed the prices of 1 million airline seats.
 
@@ -3742,7 +3742,7 @@ Ryanair sent out an email this morning to customers, advertising a flash sale wh
 From Newcastle , fares are as low as £9.78 to Dublin, £14.69 to Mallorca, £9.78 to Warsaw and £14.99 to Malaga. Other destinations include Faro and Barcelona (Girona).
 
 Details and booking information are here",news,2018-10-22,2018-10-22T11:22:00Z,eng-4364609,0.0,eng,0.3725490272045135,11:22:00,Ryanair launches one-day sale day with flights from £9.99,975501129,https://www.chroniclelive.co.uk/whats-on/shopping/ryanair-sale-newcastle-airport-flights-15311815,chroniclelive.co.uk,news,Chronicle Live,3,Shivam,0
-99,"[{'uri': 'aidan_lonergan@irishpost.com', 'name': 'Aidan Lonergan', 'type': 'author', 'isAgency': False}]","CALLS for a boycott of Ryanair are growing over the airline's alleged mishandling of a racially abusive incident onboard one of its planes.
+99,99,"[{'uri': 'aidan_lonergan@irishpost.com', 'name': 'Aidan Lonergan', 'type': 'author', 'isAgency': False}]","CALLS for a boycott of Ryanair are growing over the airline's alleged mishandling of a racially abusive incident onboard one of its planes.
 
 Footage of a white man hurling racist abuse at an elderly black woman seated next to him on a Ryanair flight from Barcelona to London Stansted quickly went viral after the incident on Friday.
 
@@ -3781,7 +3781,7 @@ The elderly woman, who has arthritis, eventually got up to sit with her daughter
 It comes after it emerged on Monday that Ryanair's profits have fallen sharply in the wake of rising costs and flight cancellations.
 
 CEO Michael O'Leary has admitted he is not necessarily optimistic about the months ahead, but claims rivals are in even worse shape.",news,2018-10-22,2018-10-22T13:25:00Z,eng-4364609,0.0,eng,0.7254902124404907,13:25:00,Calls for Ryanair boycott grow as MP warns racially abusive passenger 'may get away with it' due to aviation laws | The Irish Post,975594753,https://www.irishpost.com/news/calls-ryanair-boycott-grow-mp-warns-racially-abusive-passenger-may-get-away-due-aviation-laws-161134,irishpost.com,news,The Irish Post,3,Myriam,0
-100,[],"Downing Street has condemned ""abhorrent"" racial abuse after a Ryanair passenger was filmed berating a black woman sitting next to him.
+100,100,[],"Downing Street has condemned ""abhorrent"" racial abuse after a Ryanair passenger was filmed berating a black woman sitting next to him.
 
 Theresa May's spokesman refused to comment explicitly on the incident as Essex Police are investigating.
 
@@ -3822,7 +3822,7 @@ Transport Secretary Chris Grayling said the comments were ""totally unacceptable
 ""The fact is that abuse of that kind, race abuse of that kind, is a crime - and if a crime is committed it should be dealt with appropriately,"" he said.
 
 ""And so therefore I would hope, notwithstanding what took place on that day, that police would want to take action in such an extraordinarily unacceptable case.""",news,2018-10-22,2018-10-22T13:10:00Z,eng-4364609,0.0,eng,0.5803921818733215,13:10:00,Downing Street condemns 'abhorrent' racial abuse after Ryanair incident,975582657,https://www.yorkshirecoastradio.com/news/national/2718072/downing-street-condemns-abhorrent-racial-abuse-after-ryanair-incident/,yorkshirecoastradio.com,news,Yorkshire Coast Radio,3,Ana,0
-101,[],"A MAN who filmed a racist incident on a Ryanair flight said he chose not to intervene so he could publicise what happened.
+101,101,[],"A MAN who filmed a racist incident on a Ryanair flight said he chose not to intervene so he could publicise what happened.
 
 David Lawrence, who filmed a man subjecting a woman to a tirade of racist abuse, said that in the age of social media ""visual is important"" and ""now the world knows"" what happened.
 
@@ -3831,7 +3831,7 @@ He told BBC Breakfast: ""I had to make a difficult decision at that time because
 The video, recorded on October 19 on flight FR015 from Barcelona to London Stansted before the plane had taken off, shows a man shouting at a woman telling her to move seats while her daughter tries to stand up to him, telling him her mother is disabled.
 
 He said: ""I don't care whether she's f****** disabled or not - if I tell her to get out she gets out.""",news,2018-10-22,2018-10-22T10:34:00Z,eng-4364609,0.0,eng,0.47843137383461,10:34:00,Ryanair racism row: Man who filmed incident reveals why he didn't step in to stop abuse,975464523,https://www.express.co.uk/news/uk/1034785/Ryanair-racism-row-berlin-to-London-flight-video,express.co.uk,news,EXPRESS,3,Hugo,0
-102,"[{'uri': 'agence_france_presse@business-standard.com', 'name': 'Agence France-Presse', 'type': 'author', 'isAgency': True}]","Ryanair's first half to September profits fell seven per cent to EUR1.2 billion, the low-cost airline announced Monday, after widespread strike action by pilots and cabin crew disrupted operations.
+102,102,"[{'uri': 'agence_france_presse@business-standard.com', 'name': 'Agence France-Presse', 'type': 'author', 'isAgency': True}]","Ryanair's first half to September profits fell seven per cent to EUR1.2 billion, the low-cost airline announced Monday, after widespread strike action by pilots and cabin crew disrupted operations.
 
 In a statement, the Irish firm maintained its net profit estimate for its current financial year to March 2019 of EUR1.1-1.2 billion (USD 1.27-1.38 billion) -- down 12 per cent -- owing to two pan-European strikes that forced it to cancel hundreds of flights.
 
@@ -3857,8 +3857,8 @@ Ryanair pilots across Europe staged a 24-hour stoppage in September to further d
 
 In July, strikes by cockpit and cabin crew disrupted 600 flights in Belgium, Ireland, Italy, Portugal and Spain, affecting 100,000 travellers. A major issue among staff based outside Ireland remains the firm's practice of using Irish legislation in employment contracts.
 
-Employees say the status quo creates insecurity for them, blocking access to state benefits in their own countries.",news,2018-10-22,2018-10-22T13:04:00Z,eng-4364609,0.0,eng,0.4000000059604645,13:04:00,Ryanair first-half profits fall 7pc after widespread strikes,975577372,https://www.business-standard.com/article/pti-stories/ryanair-first-half-profits-fall-7pc-after-widespread-strikes-118102200803_1.html,business-standard.com,news,Business Standard,3,David,0
-103,"[{'uri': 'tommy_wathen@essexlive.news', 'name': 'Tommy Wathen', 'type': 'author', 'isAgency': False}, {'uri': 'neil_murphy@essexlive.news', 'name': 'Neil Murphy', 'type': 'author', 'isAgency': False}, {'uri': 'pippa_allen_kinross@essexlive.news', 'name': 'Pippa Allen-Kinross', 'type': 'author', 'isAgency': False}]","Get Daily updates directly to your inboxSubscribeSee our privacy noticeThank you for subscribingSee our privacy noticeCould not subscribe, try again laterInvalid Email
+Employees say the status quo creates insecurity for them, blocking access to state benefits in their own countries.",news,2018-10-22,2018-10-22T13:04:00Z,eng-4364609,0.0,eng,0.4000000059604645,13:04:00,Ryanair first-half profits fall 7pc after widespread strikes,975577372,https://www.business-standard.com/article/pti-stories/ryanair-first-half-profits-fall-7pc-after-widespread-strikes-118102200803_1.html,business-standard.com,news,Business Standard,3,David,3
+103,103,"[{'uri': 'tommy_wathen@essexlive.news', 'name': 'Tommy Wathen', 'type': 'author', 'isAgency': False}, {'uri': 'neil_murphy@essexlive.news', 'name': 'Neil Murphy', 'type': 'author', 'isAgency': False}, {'uri': 'pippa_allen_kinross@essexlive.news', 'name': 'Pippa Allen-Kinross', 'type': 'author', 'isAgency': False}]","Get Daily updates directly to your inboxSubscribeSee our privacy noticeThank you for subscribingSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
 A Ryanair passenger who launched a racist verbal attack of an elderly female member of the public 'may get away with it' because the flight had not taken off.
 
@@ -3923,7 +3923,7 @@ A fellow passenger then attempts to calm the man down.
 ""There's no need for that at all,"" he adds, telling him to keep his voice down.
 
 A member of the cabin crew approaches the man and tells him to calm down as the woman is led to a different seat.",news,2018-10-22,2018-10-22T11:36:00Z,eng-4364609,0.0,eng,0.6823529601097107,11:36:00,Why Ryanair passenger could get away with racist abuse of elderly woman ,975511240,https://www.essexlive.news/news/essex-news/ryanair-passenger-could-away-racist-2133501,essexlive.news,news,Essex Live,3,Asif,0
-104,"[{'uri': 'daniel_milligan@chroniclelive.co.uk', 'name': 'Daniel Milligan', 'type': 'author', 'isAgency': False}]","Get daily updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
+104,104,"[{'uri': 'daniel_milligan@chroniclelive.co.uk', 'name': 'Daniel Milligan', 'type': 'author', 'isAgency': False}]","Get daily updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
 Footage on board a Ryanair flight at the centre of a 'racist' passenger scandal has emerged.
 
@@ -3937,8 +3937,8 @@ The airline released a statement, saying it had reported the incident to Essex P
 
 On Monday morning, Ryanair sent out an email to customers, advertising a flash sale where fares are slashed until midnight, for travel between November and March.
 
-From Newcastle , fares are as low as £9.78 to Dublin, £14.69 to Mallorca, £9.78 to Warsaw and £14.99 to Malaga. Other destinations include Faro and Barcelona (Girona).",news,2018-10-22,2018-10-22T12:00:00Z,eng-4364609,0.0,eng,0.529411792755127,12:00:00,Watch footage from Ryanair flight amid 'racist' passenger video scandal,975528438,https://www.chroniclelive.co.uk/news/uk-news/watch-footage-ryanair-flight-amid-15312086,chroniclelive.co.uk,news,Chronicle Live,3,Shivam,0
-105,[],"British police are investigating after footage of a man shouting racist abuse at an elderly black woman on a Ryanair flight went viral over the weekend, with the airline facing criticism over how it dealt with the incident.
+From Newcastle , fares are as low as £9.78 to Dublin, £14.69 to Mallorca, £9.78 to Warsaw and £14.99 to Malaga. Other destinations include Faro and Barcelona (Girona).",news,2018-10-22,2018-10-22T12:00:00Z,eng-4364609,0.0,eng,0.5294117927551271,12:00:00,Watch footage from Ryanair flight amid 'racist' passenger video scandal,975528438,https://www.chroniclelive.co.uk/news/uk-news/watch-footage-ryanair-flight-amid-15312086,chroniclelive.co.uk,news,Chronicle Live,3,Shivam,0
+105,105,[],"British police are investigating after footage of a man shouting racist abuse at an elderly black woman on a Ryanair flight went viral over the weekend, with the airline facing criticism over how it dealt with the incident.
 
 The unidentified man insulted her after complaining that she had inconvenienced him as he tried to reach his seat aboard.
 
@@ -3963,7 +3963,7 @@ Britain's interior minister resigned earlier this year over the treatment of som
 Lawrence added that the woman, who he is in touch with, was from the Windrush generation, and that the frequency of such racist abuse made people numb to it.
 
 ""If the roles had been reversed, if that was a black man abusing an elderly, disabled white woman, I know that the outcome would have been completely different,"" he said.",news,2018-10-22,2018-10-22T10:41:00Z,eng-4364609,0.0,eng,0.6901960968971252,10:41:00,Ryanair passenger's racist rant prompts British police investigation,975469795,https://www.timesofmalta.com/articles/view/20181022/world/ryanair-passenger-racist.692278,timesofmalta.com,news,timesofmalta.com,3,Myriam,0
-106,[],"Irish low-cost airline Ryanair has been slammed after failing to remove a racist passenger onboard a flight from Barcelona to London.
+106,106,[],"Irish low-cost airline Ryanair has been slammed after failing to remove a racist passenger onboard a flight from Barcelona to London.
 
 According to a video shot by a fellow passenger, the incident took place onboard the flight on Friday after a woman was unable to move out from her seat quickly to let the man enter and sit in his window seat, reports Xinhua news agency.
 
@@ -3980,7 +3980,7 @@ David Lawrence, the passenger who recorded the widespread video, told BBC on Sun
 The airline tweeted on Sunday that it has reported the incident to the police.
 
 Founded in 1984, Ryanair is one of the largest airlines in Europe, serving 37 countries in Europe, Africa, and Asia.",news,2018-10-22,2018-10-22T06:45:00Z,eng-4364609,0.0,eng,0.6784313917160034,06:45:00, Ryanair slammed for not removing racially abusive man ,975307211,https://www.business-standard.com/article/news-ians/ryanair-slammed-for-not-removing-racially-abusive-man-118102200279_1.html,business-standard.com,news,Business Standard,3,Ana,0
-107,[],"A man who was filmed racially abusing a woman on a Ryanair flight has been identified, police said.
+107,107,[],"A man who was filmed racially abusing a woman on a Ryanair flight has been identified, police said.
 
 Essex Police said it had identified both parties involved in the incident and passed the details to the Spanish authorities who were leading the investigation.
 
@@ -3999,7 +3999,7 @@ In the recording of the incident the man can be heard threatening to push the wo
 David Lawrence, who filmed the man subjecting the woman to a tirade of racist abuse, said that in the age of social media ""visual is important"" and ""now the world knows"" what happened.
 
 He told BBC Breakfast: ""I had to make a difficult decision at that time because if I had stepped in I don't think you would have seen the footage that I captured.""",news,2018-10-23,2018-10-23T08:40:00Z,eng-4364609,0.0,eng,0.5686274766921997,08:40:00,'Racist' flight rant man identified,976266517,https://www.bbc.com/news/uk-england-essex-45951232,bbc.co.uk,news,BBC News,3,Hugo,0
-108,"[{'uri': 'kieran_davey@portsmouth.co.uk', 'name': 'Kieran Davey', 'type': 'author', 'isAgency': False}]","Ryanair has sparked outrage after apparently failing to remove a passenger from a plane after he launched a racisttirade against the woman in the seat next to him.
+108,108,"[{'uri': 'kieran_davey@portsmouth.co.uk', 'name': 'Kieran Davey', 'type': 'author', 'isAgency': False}]","Ryanair has sparked outrage after apparently failing to remove a passenger from a plane after he launched a racisttirade against the woman in the seat next to him.
 
 The man was filmed by a fellow passenger calling the elderly woman an 'ugly black b*****d', and shouting 'don't talk to me in a foreign language you stupid ugly cow'.
 
@@ -4035,8 +4035,8 @@ A spokeswoman for Essex police said: 'This incident, which we were made aware of
 
 'Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
-'We are working closely with Ryanair and the Spanish authorities on the investigation.'",news,2018-10-21,2018-10-21T13:31:00Z,eng-4364609,0.0,eng,0.7607843279838562,13:31:00,Ryanair criticised for failing to remove racist passenger from flight ,974869854,https://www.portsmouth.co.uk/news/crime/ryanair-criticised-for-failing-to-remove-racist-passenger-from-flight-1-8676756,portsmouth.co.uk,news,Portsmouth News,3,David,0
-109,[],"A DISABLED pensioner who was racially abused on a Ryanair flight has said she is depressed and struggling to sleep because of her ordeal.
+'We are working closely with Ryanair and the Spanish authorities on the investigation.'",news,2018-10-21,2018-10-21T13:31:00Z,eng-4364609,0.0,eng,0.7607843279838562,13:31:00,Ryanair criticised for failing to remove racist passenger from flight ,974869854,https://www.portsmouth.co.uk/news/crime/ryanair-criticised-for-failing-to-remove-racist-passenger-from-flight-1-8676756,portsmouth.co.uk,news,Portsmouth News,3,David,3
+109,109,[],"A DISABLED pensioner who was racially abused on a Ryanair flight has said she is depressed and struggling to sleep because of her ordeal.
 
 Delsie Gayle, 77, fears the man responsible will 'get away with it' and also criticised the airline for failing to get in touch with her despite national outrage over the incident.
 
@@ -4059,7 +4059,7 @@ He told BBC Breakfast: 'What if that was a role reversal and that was a black ma
 Ryanair said it could not comment because 'this is now a police matter'. Essex Police said it was working with the airline and Spanish authorities.
 
 ■ RYANAIR profits have been hit by rising fuel prices and compensation payouts caused by delays, strikes and cancellations. The budget airline recorded a nine per cent fall in pre-tax profits to £1.1billion in the six months to September 30. It said higher fuel, staff and compensation costs offset strong revenue growth.",news,2018-10-23,2018-10-23T00:31:00Z,eng-4364609,0.0,eng,0.5921568870544434,00:31:00,"Every time I remember I cry, says victim of racist abuse on Ryanair flight",976021160,https://www.metro.news/every-time-i-remember-i-cry-says-victim-of-racist-abuse-on-ryanair-flight/1280424/,metro.news,news,Metro Newspaper UK,3,Asif,0
-110,"[{'uri': 'kieran_davey@portsmouth.co.uk', 'name': 'Kieran Davey', 'type': 'author', 'isAgency': False}]","Ryanair has sparked outrage after apparently failing to remove a passenger from a plane after he launched a racist tirade against the woman in the seat next to him.
+110,110,"[{'uri': 'kieran_davey@portsmouth.co.uk', 'name': 'Kieran Davey', 'type': 'author', 'isAgency': False}]","Ryanair has sparked outrage after apparently failing to remove a passenger from a plane after he launched a racist tirade against the woman in the seat next to him.
 
 The man was filmed by a fellow passenger calling the elderly woman an 'ugly black b*****d', and shouting 'don't talk to me in a foreign language you stupid ugly cow'.
 
@@ -4096,7 +4096,7 @@ A spokeswoman for Essex police said: 'This incident, which we were made aware of
 'Essex Police takes prejudice-based crime seriously and we want all incidents to be reported.
 
 'We are working closely with Ryanair and the Spanish authorities on the investigation.'",news,2018-10-21,2018-10-21T13:31:00Z,eng-4364609,0.0,eng,0.7686274647712708,13:31:00,Ryanair criticised for failing to remove racist passenger from flight ,974869853,https://www.portsmouth.co.uk/news/crime/ryanair-criticised-for-failing-to-remove-racist-passenger-from-flight-1-8676757,portsmouth.co.uk,news,Portsmouth News,3,Shivam,0
-111,[],"A man on a Ryanair flight from Barcelona to London refused to sit next to an elderly woman... because she was black.
+111,111,[],"A man on a Ryanair flight from Barcelona to London refused to sit next to an elderly woman... because she was black.
 
 A PressTV video posted on YouTube shows the man arguing with a woman who was having a go at him because of his behaviour.
 
@@ -4107,7 +4107,7 @@ A man who was on the flight said he was disgusted and it was unbelievable that t
 A commentor expressed disgust that the lady, rather than the man, was the one moved by the crew.
 
 ""(The) crew need to be sacked immediately. They enabled his behaviour. People are thrown of flight for much less. Yet the victim was the one moved. Arrest him and throw him in jail for a very long time. People like this are sick.""",news,2018-10-21,2018-10-21T13:09:00Z,eng-4364609,0.0,eng,0.4039215743541718,13:09:00,Flight passenger refuses to sit near woman... because she's black,974858246,https://www.timesofmalta.com/articles/view/20181021/world/flight-passenger-refuses-to-sit-near-woman-because-shes-black.692226,timesofmalta.com,news,timesofmalta.com,3,Myriam,0
-112,"[{'uri': 'gerard_donaghy@irishpost.com', 'name': 'Gerard Donaghy', 'type': 'author', 'isAgency': False}]","A VIDEO appearing to show an elderly woman being subjected to racist abuse on a Ryanair flight has drawn widespread condemnation.
+112,112,"[{'uri': 'gerard_donaghy@irishpost.com', 'name': 'Gerard Donaghy', 'type': 'author', 'isAgency': False}]","A VIDEO appearing to show an elderly woman being subjected to racist abuse on a Ryanair flight has drawn widespread condemnation.
 
 Ryanair says it has reported the matter to police but the airline has been criticised for not removing the abusive passenger.
 
@@ -4136,7 +4136,7 @@ Robert Halfon, MP for Harlow, described Ryanair as 'horrific' while Hull MP Karl
 In a statement to BBC News, Essex Police said: ""This incident, which we were made aware of this morning, is believed to have taken place on a plane at Barcelona Airport.
 
 ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported. We are working closely with Ryanair and the Spanish authorities on the investigation.""",news,2018-10-21,2018-10-21T12:48:00Z,eng-4364609,0.0,eng,0.7333333492279053,12:48:00,Outrage after shocking footage shows elderly passenger racially abused on Ryanair flight | The Irish Post,974847791,https://www.irishpost.com/news/outrage-after-shocking-footage-shows-elderly-passenger-racially-abused-on-ryanair-flight-161094,irishpost.com,news,The Irish Post,3,Ana,0
-113,[],"Details of an incident where a man hurled racist abuse at an elderly black woman on a Ryanair flight have been passed on to Spanish authorities.
+113,113,[],"Details of an incident where a man hurled racist abuse at an elderly black woman on a Ryanair flight have been passed on to Spanish authorities.
 
 Essex Police says: ""We have worked to identify both parties involved in this incident and passed this information to the Spanish authorities, who are leading on this investigation.
 
@@ -4155,7 +4155,7 @@ He replies: ""I don't care whether she's f****** disabled or not - if I tell her
 He tells staff to move the woman to another seat, adding: ""If you don't go to another seat I'll push you to another seat.""
 
 The man, who has not been named, shouts ""don't talk to me in a foreign language you stupid ugly cow"".",news,2018-10-23,2018-10-23T08:24:00Z,eng-4364609,0.0,eng,0.615686297416687,08:24:00,Racist abuse on Ryanair plane investigated by police,976254321,https://www.yorkshirecoastradio.com/news/national/2718678/racist-abuse-on-ryanair-plane-investigated-by-police/,yorkshirecoastradio.com,news,Yorkshire Coast Radio,3,Hugo,0
-114,"[{'uri': 'matthew_mohan_hickson@portsmouth.co.uk', 'name': 'Matthew Mohan-Hickson', 'type': 'author', 'isAgency': False}]","Footage posted on social media appeared to show a plane passenger calling Delsie Gayle an 'ugly black bastard' and telling her 'don't speak to me in a foreign language, you stupid ugly cow'.
+114,114,"[{'uri': 'matthew_mohan_hickson@portsmouth.co.uk', 'name': 'Matthew Mohan-Hickson', 'type': 'author', 'isAgency': False}]","Footage posted on social media appeared to show a plane passenger calling Delsie Gayle an 'ugly black bastard' and telling her 'don't speak to me in a foreign language, you stupid ugly cow'.
 
 The incident is believed to have taken place on Ryanair flight FR015 at Barcelona Airport on October 19, before it left for London Stansted.
 
@@ -4189,8 +4189,8 @@ She told ITV News: 'He should have been moved or taken off the plane and nothing
 
 'Nobody has apologised. We've not had nothing. We just want an open apology from Ryanair.
 
-'I can't even watch the video any more, it's just so upsetting.'",news,2018-10-23,2018-10-23T09:33:00Z,eng-4364609,0.0,eng,0.6196078658103943,09:33:00,"Man filmed racially abusing woman on Ryanair flight indentified, police say",976305600,https://www.portsmouth.co.uk/news/crime/man-filmed-racially-abusing-woman-on-ryanair-flight-indentified-police-say-1-8678771,portsmouth.co.uk,news,Portsmouth News,3,David,0
-115,"[{'uri': 'isabella_sullivan@express.co.uk', 'name': 'Isabella Sullivan', 'type': 'author', 'isAgency': False}]","RYANAIR has come under scrutiny as a video went viral of a passenger racially abusing an elderly woman. The shocking video caused outrage on social media, with many people calling to boycott Ryanair.
+'I can't even watch the video any more, it's just so upsetting.'",news,2018-10-23,2018-10-23T09:33:00Z,eng-4364609,0.0,eng,0.6196078658103943,09:33:00,"Man filmed racially abusing woman on Ryanair flight indentified, police say",976305600,https://www.portsmouth.co.uk/news/crime/man-filmed-racially-abusing-woman-on-ryanair-flight-indentified-police-say-1-8678771,portsmouth.co.uk,news,Portsmouth News,3,David,5
+115,115,"[{'uri': 'isabella_sullivan@express.co.uk', 'name': 'Isabella Sullivan', 'type': 'author', 'isAgency': False}]","RYANAIR has come under scrutiny as a video went viral of a passenger racially abusing an elderly woman. The shocking video caused outrage on social media, with many people calling to boycott Ryanair.
 
 Ryanair has been at the centre of a social media storm after a shocking video appeared of a passenger racially abusing an elderly woman.
 
@@ -4199,7 +4199,7 @@ The disgusting video was captured by fellow passenger David Lawrence, and shows 
 The video shows the passenger shouting at Mrs Gayle, a 77-year-old from East London, and refusing to sit next to her.
 
 In a shocking series of events, the man can be heard calling Mrs Gayle an ""ugly black bast**d"", while crew members looked on.",news,2018-10-21,2018-10-21T16:23:00Z,eng-4364609,0.0,eng,0.501960813999176,16:23:00,Shocking video shows Ryanair passenger racially abuse elderly woman - but SHE has to move,974954039,https://www.express.co.uk/travel/articles/1034488/ryanair-video-news-latest-passenger,express.co.uk,news,EXPRESS,3,Asif,0
-116,"[{'uri': 'roxanne_hughes@express.co.uk', 'name': 'Roxanne Hughes', 'type': 'author', 'isAgency': False}]","THIS MORNING presenter Eamonn Holmes slammed budget airline Ryanair as he listened in horror to Delcie Gayle describe the racial abuse she suffered from a fellow passenger on a flight from Barcelona to London Stansted.
+116,116,"[{'uri': 'roxanne_hughes@express.co.uk', 'name': 'Roxanne Hughes', 'type': 'author', 'isAgency': False}]","THIS MORNING presenter Eamonn Holmes slammed budget airline Ryanair as he listened in horror to Delcie Gayle describe the racial abuse she suffered from a fellow passenger on a flight from Barcelona to London Stansted.
 
 Delcie Gayle, 77, and her daughter Carol flew to Barcelona, Spain, for holiday earlier this month, but on the flight back to the UK arthritis-sufferer Delcie was subject to a tirade of abuse from a fellow passenger.
 
@@ -4208,7 +4208,7 @@ The mother and daughter had been seated separately, with Delcie boarded first du
 It was during boarding the Jamaican-born woman found herself at the centre of an abusive rant - which made reference to her race.
 
 Welcoming the guests to the This Morning sofa alongside his wife Ruth Langsford, Eamonn noted Delcie had been ""sat beside a prat"" on the flight, ironically from Barcelona-El Prat Airport.",news,2018-10-23,2018-10-23T11:38:00Z,eng-4364609,0.0,eng,0.3490196168422699,11:38:00,ITV This Morning: 'Ryanair treat passengers with CONTEMPT' Eamonn Holmes SLAMS airline,976404056,https://www.express.co.uk/showbiz/tv-radio/1035259/ITV-This-Morning-Eamonn-Holmes-Ruth-Langsford-Ryanair-Delcie-Gayle-Barcelona-flight-race,express.co.uk,news,EXPRESS,3,Shivam,0
-117,[],"Ryanair has been criticised for apparently failing to remove a passenger from a flight after racial abuse of a woman in her 70s.
+117,117,[],"Ryanair has been criticised for apparently failing to remove a passenger from a flight after racial abuse of a woman in her 70s.
 
 The incident, on a flight from Barcelona to Stansted on Friday, was recorded by a fellow passenger and shared on social media.
 
@@ -4265,7 +4265,7 @@ Essex Police said on Sunday: ""This incident, which we were made aware of this m
 ""Essex Police takes prejudice-based crime seriously and we want all incidents to be reported. We are working closely with Ryanair and the Spanish authorities on the investigation.""
 
 It asked anyone with information to call 101 or Crimestoppers, anonymously, on 0800 555 111.",news,2018-10-21,2018-10-21T11:12:00Z,eng-4364609,0.0,eng,0.7098039388656616,11:12:00,Ryanair criticised over 'racist outburst',974801129,https://www.bbc.com/news/uk-45932027,bbc.co.uk,news,BBC News,3,Myriam,0
-118,"[{'uri': 'aidan_lonergan@irishpost.com', 'name': 'Aidan Lonergan', 'type': 'author', 'isAgency': False}]","A RYANAIR passenger who was racially abused onboard one of the Irish airline's planes has spoken out about the incident in an emotional appearance on ITV's This Morning.
+118,118,"[{'uri': 'aidan_lonergan@irishpost.com', 'name': 'Aidan Lonergan', 'type': 'author', 'isAgency': False}]","A RYANAIR passenger who was racially abused onboard one of the Irish airline's planes has spoken out about the incident in an emotional appearance on ITV's This Morning.
 
 Delsie Gayle, 77, was left distraught after a fellow flier labelled her a ""stupid, ugly cow"" and ""ugly black bastard"" on a Ryanair flight to London Stansted at Barcelona Airport on Friday.
 
@@ -4299,8 +4299,8 @@ Viewers were also left in tears by Delsie and Carol's emotional appearance on th
 
 One tweeted: ""How this poor woman and her family have been treated is disgusting, tears in my eyes #ThisMorning.""
 
-Another wrote: ""This horrible racist man needs to me named and shamed. Sending all my love and prayers to Delsie and her daughter.""",news,2018-10-23,2018-10-23T12:25:00Z,eng-4364609,0.0,eng,0.529411792755127,12:25:00,"Eamonn Holmes slams Ryanair as racially-abused passenger, 77, appears on This Morning after police 'identify' man involved | The Irish Post",976440792,https://www.irishpost.com/news/eamonn-holmes-slams-ryanair-racially-abused-passenger-77-appears-morning-police-identify-man-involved-161159,irishpost.com,news,The Irish Post,3,Ana,0
-119,"[{'uri': 'simon_meechan@chroniclelive.co.uk', 'name': 'Simon Meechan', 'type': 'author', 'isAgency': False}]","Get daily updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
+Another wrote: ""This horrible racist man needs to me named and shamed. Sending all my love and prayers to Delsie and her daughter.""",news,2018-10-23,2018-10-23T12:25:00Z,eng-4364609,0.0,eng,0.5294117927551271,12:25:00,"Eamonn Holmes slams Ryanair as racially-abused passenger, 77, appears on This Morning after police 'identify' man involved | The Irish Post",976440792,https://www.irishpost.com/news/eamonn-holmes-slams-ryanair-racially-abused-passenger-77-appears-morning-police-identify-man-involved-161159,irishpost.com,news,The Irish Post,3,Ana,0
+119,119,"[{'uri': 'simon_meechan@chroniclelive.co.uk', 'name': 'Simon Meechan', 'type': 'author', 'isAgency': False}]","Get daily updates directly to your inboxSubscribeSee our privacy noticeMore newslettersThank you for subscribingWe have more newslettersShow meSee our privacy noticeCould not subscribe, try again laterInvalid Email
 
 The elderly woman who a fellow Ryanair passenger aimed racist comments at broke down in tears as she watched footage of the tirade.
 
