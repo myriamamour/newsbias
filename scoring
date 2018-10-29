@@ -23,3 +23,24 @@ list.loc[95,'score'] = 1
 list.loc[101,'score'] = 3
 list.loc[107,'score'] = 5
 list.loc[119,'score'] = 0
+
+#Ana
+list.loc[4,'score'] = 0
+list.loc[10,'score'] = 1
+list.loc[16,'score'] = 4
+list.loc[22,'score'] = 2
+list.loc[28,'score'] = 0
+list.loc[34,'score'] = 0
+list.loc[40,'score'] = 0
+list.loc[46,'score'] = 1
+list.loc[52,'score'] = 5
+list.loc[58,'score'] = 5
+list.loc[64,'score'] = 5
+list.loc[70,'score'] = 1
+list.loc[76,'score'] = 2
+list.loc[82,'score'] = 0
+list.loc[88,'score'] = 0
+list.loc[94,'score'] = 0
+list.loc[100,'score'] = 1
+list.loc[106,'score'] = 5
+list.loc[118,'score'] = 4
