@@ -44,3 +44,25 @@ list.loc[94,'score'] = 0
 list.loc[100,'score'] = 1
 list.loc[106,'score'] = 5
 list.loc[118,'score'] = 4
+
+#Asef
+data.loc[1,'score'] = 4
+data.loc[7,'score'] = 1
+data.loc[13,'score'] = 1
+data.loc[19,'score'] = 3
+data.loc[25,'score'] = 4
+data.loc[31,'score'] = 5
+data.loc[37,'score'] = 3
+data.loc[43,'score'] = 2
+data.loc[49,'score'] = 1
+data.loc[55,'score'] = 3
+data.loc[61,'score'] = 5
+data.loc[67,'score'] = 4
+data.loc[73,'score'] = 4
+data.loc[79,'score'] = 5
+data.loc[85,'score'] = 2
+data.loc[91,'score'] = 4
+data.loc[97,'score'] = 5
+data.loc[103,'score'] = 1
+data.loc[109,'score'] = 0
+data.loc[115,'score'] = 3
